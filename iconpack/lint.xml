@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Launchers look icons up by name through appfilter.xml, so lint can't see them used. -->
+    <issue id="UnusedResources" severity="ignore" />
+</lint>

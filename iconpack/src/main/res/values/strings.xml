@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply_hint">%1$s is installed. Choose it as the icon pack in your launcher\'s settings.\n\nKvaesitso: Settings → Appearance → Icons → Icon pack.</string>
+</resources>
