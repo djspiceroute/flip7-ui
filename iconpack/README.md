@@ -17,9 +17,9 @@ Previews of every pack: [Hinge Line](preview/hingeLine.svg) · [Hinge Solid](pre
 
 ## What's covered
 
-137 icons for 682 app entry points: the Indian apps on the wish list (shopping, banking, investing, travel, food, medical, entertainment, fitness, government, telecom, news, airlines) plus core Samsung and Google apps.
+177 icons for 766 app entry points: the Indian apps on the wish list (shopping, food, banking, investing, travel, hotels, medical, fitness, entertainment, government, telecom, news, airlines) plus core Samsung and Google apps.
 
-Some have no published Android component mapping yet, so they are in the pack but have to be picked by hand: **Practo, The Ken, Air India Express, Akasa Air, BOBcard, Blue Tokai, Burger King India, McDelivery India, Fabindia, NNNow, Tanishq, MrMed, MyBSWHealth, Chumbak, InstaCash, Levi's India, MANGO, Minimalist, myShiprocket, Simpli Namdhari's**. The M&S icon is mapped to the UK app's package; the India app may also need picking by hand. In Kvaesitso, long-press the app → **Customize** → tap the icon → choose it from the pack.
+The entries in `tools/apps.json` with neither a `package` nor `components` have no known launcher component yet (mostly Indian apps no public icon pack covers, such as Practo, Tanishq, Chaayos and Taj Hotels). Their icons are in the pack but have to be picked by hand: in Kvaesitso, long-press the app → **Customize** → tap the icon → choose it from the pack. The Missing icons screen below fixes that.
 
 ### Missing icons screen
 
@@ -62,5 +62,6 @@ The tile and line colors for each finish are in `FINISHES` at the top of `tools/
 ## Credits and licence
 
 - Most line drawings, and the component mappings, come from [Arcticons](https://github.com/Arcticons-Team/Arcticons) by the Arcticons team, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They have been recolored, rescaled and placed on tiles. The drawings in this pack are shared under the same licence; see [icons/LICENSE.md](icons/LICENSE.md).
+- A few component mappings (Scapia, Licious, HealthKart) come from the [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) and [Delta](https://github.com/Delta-Icons/android) appfilters.
 - The Truecaller handset and Air India Express plane in `icons/custom/` are based on [Lucide](https://lucide.dev) icons (ISC licence).
 - App names and logos belong to their owners. This is a personal theming project and is not affiliated with any of them.
