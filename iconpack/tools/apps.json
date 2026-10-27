@@ -47,7 +47,7 @@
     { "label": "BOBcard", "drawable": "bobcard", "glyph": "custom" },
     { "label": "Licious", "drawable": "licious", "glyph": "custom", "components": ["ComponentInfo{com.licious/com.licious.intro.activity.SplashActivity}"] },
     { "label": "Starbucks India", "package": "com.starbucks.in" },
-    { "label": "Third Wave Coffee", "package": "in.thirdwavecoffee.android", "drawable": "third_wave_coffee", "glyph": "coffee" },
+    { "label": "Third Wave Coffee", "package": "in.thirdwavecoffee.android", "drawable": "third_wave_coffee", "glyph": "custom" },
     { "label": "Blue Tokai", "drawable": "blue_tokai", "glyph": "custom" },
     { "label": "Burger King India", "drawable": "burger_king" },
     { "label": "McDelivery India", "drawable": "mcdelivery" },

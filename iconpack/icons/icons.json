@@ -1033,7 +1033,7 @@
     {
       "drawable": "third_wave_coffee",
       "label": "Third Wave Coffee",
-      "glyph": "arcticons/coffee.svg"
+      "glyph": "custom/third_wave_coffee.svg"
     },
     {
       "drawable": "tiktok",
