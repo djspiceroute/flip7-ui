@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- Lets the Missing icons screen see which apps are installed. -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent>
+    </queries>
+
     <application
         android:icon="@drawable/pack_icon"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@android:style/Theme.DeviceDefault.Dialog">
+        android:theme="@android:style/Theme.DeviceDefault">
 
-        <!-- No launcher entry: the pack is applied from the launcher's settings.
+        <!-- The pack is applied from the launcher's settings.
              These actions are how launchers find installed icon packs. -->
         <activity
             android:name=".ApplyActivity"
@@ -39,5 +47,19 @@
                 <category android:name="com.teslacoilsw.launcher.THEME" />
             </intent-filter>
         </activity>
+
+        <!-- One drawer entry for the Missing icons screen, from one pack only
+             (see missingIconsInDrawer in build.gradle.kts). -->
+        <activity-alias
+            android:name=".MissingIcons"
+            android:enabled="${missingIconsInDrawer}"
+            android:exported="true"
+            android:label="@string/missing_label"
+            android:targetActivity=".ApplyActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
     </application>
 </manifest>

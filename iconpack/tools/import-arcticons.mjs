@@ -39,6 +39,9 @@ function addIcon(drawable, label, glyph) {
 
 for (const app of apps) {
   const entries = app.package ? byPackage.get(app.package) ?? [] : [];
+  // Components Arcticons doesn't know (found in other packs' appfilters, or
+  // reported by the pack's Missing icons screen).
+  for (const component of app.components ?? []) entries.push({ component, drawable: app.drawable });
   if (app.package && entries.length === 0) missing.push(`${app.label} (${app.package})`);
 
   if (app.drawable) {

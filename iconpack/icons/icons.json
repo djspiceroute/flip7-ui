@@ -21,6 +21,11 @@
       "glyph": "arcticons/airtel.svg"
     },
     {
+      "drawable": "ajio",
+      "label": "AJIO",
+      "glyph": "arcticons/ajio.svg"
+    },
+    {
       "drawable": "akasa_air",
       "label": "Akasa Air",
       "glyph": "custom/akasa_air.svg"
@@ -101,6 +106,16 @@
       "glyph": "arcticons/calendar_google_31.svg"
     },
     {
+      "drawable": "cashify",
+      "label": "Cashify",
+      "glyph": "arcticons/cashify.svg"
+    },
+    {
+      "drawable": "chumbak",
+      "label": "Chumbak",
+      "glyph": "custom/chumbak.svg"
+    },
+    {
       "drawable": "claude",
       "label": "Claude",
       "glyph": "arcticons/claude.svg"
@@ -109,6 +124,16 @@
       "drawable": "clock",
       "label": "Clock",
       "glyph": "arcticons/clock.svg"
+    },
+    {
+      "drawable": "coin",
+      "label": "Coin by Zerodha",
+      "glyph": "arcticons/coin.svg"
+    },
+    {
+      "drawable": "costco",
+      "label": "Costco",
+      "glyph": "arcticons/costco.svg"
     },
     {
       "drawable": "cred",
@@ -124,6 +149,16 @@
       "drawable": "cultfit",
       "label": "cult.fit",
       "glyph": "arcticons/cultfit.svg"
+    },
+    {
+      "drawable": "decathlon",
+      "label": "Decathlon",
+      "glyph": "arcticons/decathlon.svg"
+    },
+    {
+      "drawable": "dexcom_g7",
+      "label": "Dexcom G7",
+      "glyph": "arcticons/dexcom_g6.svg"
     },
     {
       "drawable": "digi_yatra",
@@ -241,9 +276,19 @@
       "glyph": "arcticons/healthmate.svg"
     },
     {
+      "drawable": "hm",
+      "label": "H&M",
+      "glyph": "arcticons/hm.svg"
+    },
+    {
       "drawable": "idfc_first_bank",
       "label": "IDFC FIRST Bank",
       "glyph": "arcticons/idfc_first_bank.svg"
+    },
+    {
+      "drawable": "ikea",
+      "label": "IKEA",
+      "glyph": "arcticons/ikea.svg"
     },
     {
       "drawable": "imobile_pay",
@@ -254,6 +299,11 @@
       "drawable": "indigo",
       "label": "IndiGo",
       "glyph": "arcticons/indigo.svg"
+    },
+    {
+      "drawable": "instacash",
+      "label": "InstaCash",
+      "glyph": "custom/instacash.svg"
     },
     {
       "drawable": "instagram",
@@ -274,6 +324,11 @@
       "drawable": "kvaesitso",
       "label": "Kvaesitso",
       "glyph": "arcticons/kvaesitso.svg"
+    },
+    {
+      "drawable": "levis",
+      "label": "Levi's India",
+      "glyph": "custom/levis.svg"
     },
     {
       "drawable": "licious",
@@ -301,6 +356,11 @@
       "glyph": "arcticons/makemytrip.svg"
     },
     {
+      "drawable": "mango_fashion",
+      "label": "MANGO",
+      "glyph": "custom/mango_fashion.svg"
+    },
+    {
       "drawable": "marks_and_spencer",
       "label": "M&S",
       "glyph": "arcticons/marks_and_spencer.svg"
@@ -326,6 +386,26 @@
       "glyph": "arcticons/microsoft_outlook.svg"
     },
     {
+      "drawable": "minimalist",
+      "label": "Minimalist",
+      "glyph": "custom/minimalist.svg"
+    },
+    {
+      "drawable": "mrmed",
+      "label": "MrMed",
+      "glyph": "custom/mrmed.svg"
+    },
+    {
+      "drawable": "muscleblaze",
+      "label": "MuscleBlaze",
+      "glyph": "arcticons/muscleblaze.svg"
+    },
+    {
+      "drawable": "mybswhealth",
+      "label": "MyBSWHealth",
+      "glyph": "custom/mybswhealth.svg"
+    },
+    {
       "drawable": "myjio",
       "label": "MyJio",
       "glyph": "arcticons/myjio.svg"
@@ -336,6 +416,11 @@
       "glyph": "arcticons/myntra.svg"
     },
     {
+      "drawable": "myshiprocket",
+      "label": "myShiprocket",
+      "glyph": "custom/myshiprocket.svg"
+    },
+    {
       "drawable": "namma_yatri",
       "label": "Namma Yatri",
       "glyph": "arcticons/namma_yatri.svg"
@@ -344,6 +429,11 @@
       "drawable": "netflix",
       "label": "Netflix",
       "glyph": "arcticons/netflix.svg"
+    },
+    {
+      "drawable": "netmeds",
+      "label": "Netmeds",
+      "glyph": "arcticons/netmeds.svg"
     },
     {
       "drawable": "nnnow",
@@ -357,7 +447,7 @@
     },
     {
       "drawable": "nps",
-      "label": "NPS",
+      "label": "NPS by Protean",
       "glyph": "arcticons/nps.svg"
     },
     {
@@ -384,6 +474,11 @@
       "drawable": "paytm",
       "label": "Paytm",
       "glyph": "arcticons/paytm.svg"
+    },
+    {
+      "drawable": "pharmeasy",
+      "label": "PharmEasy",
+      "glyph": "arcticons/pharmeasy.svg"
     },
     {
       "drawable": "phone",
@@ -451,9 +546,29 @@
       "glyph": "custom/scapia.svg"
     },
     {
+      "drawable": "sephora",
+      "label": "Sephora",
+      "glyph": "arcticons/sephora.svg"
+    },
+    {
       "drawable": "settings",
       "label": "Settings",
       "glyph": "arcticons/settings.svg"
+    },
+    {
+      "drawable": "shein",
+      "label": "SHEIN",
+      "glyph": "arcticons/shein.svg"
+    },
+    {
+      "drawable": "shop",
+      "label": "Shop",
+      "glyph": "arcticons/shop.svg"
+    },
+    {
+      "drawable": "simpli_namdharis",
+      "label": "Simpli Namdhari's",
+      "glyph": "custom/simpli_namdharis.svg"
     },
     {
       "drawable": "sony_liv",
@@ -494,6 +609,11 @@
       "drawable": "the_ken",
       "label": "The Ken",
       "glyph": "custom/the_ken.svg"
+    },
+    {
+      "drawable": "the_souled_store",
+      "label": "The Souled Store",
+      "glyph": "arcticons/the_souled_store.svg"
     },
     {
       "drawable": "thehindu",
@@ -556,12 +676,21 @@
       "glyph": "arcticons/letter_uppercase_square_z.svg"
     },
     {
+      "drawable": "zerodha_kite",
+      "label": "Kite by Zerodha",
+      "glyph": "arcticons/zerodha_kite.svg"
+    },
+    {
       "drawable": "zomato",
       "label": "Zomato",
       "glyph": "arcticons/zomato.svg"
     }
   ],
   "components": [
+    {
+      "component": "ComponentInfo{cards.scapia.android/cards.scapia.cards.MainActivity}",
+      "drawable": "scapia"
+    },
     {
       "component": "ComponentInfo{com.americanexpress.android.acctsvcs.in/com.americanexpress.android.intl.app.view.activity.SplashInitializationActivity}",
       "drawable": "amex"
@@ -1103,6 +1232,18 @@
       "drawable": "bookmyshow"
     },
     {
+      "component": "ComponentInfo{com.costco.app.android/com.costco.app.android.MainActivity}",
+      "drawable": "costco"
+    },
+    {
+      "component": "ComponentInfo{com.costco.app.android/com.costco.app.android.ui.main.LaunchActivity}",
+      "drawable": "costco"
+    },
+    {
+      "component": "ComponentInfo{com.costco.app.android/com.costco.app.android.ui.main.MainActivity}",
+      "drawable": "costco"
+    },
+    {
       "component": "ComponentInfo{com.creditcard.onecard/com.creditcard.onecard.MainActivity}",
       "drawable": "onecard"
     },
@@ -1147,6 +1288,30 @@
       "drawable": "imobile_pay"
     },
     {
+      "component": "ComponentInfo{com.decathlon.app/com.decathlon.app.activities.main.ShoppingAppActivity}",
+      "drawable": "decathlon"
+    },
+    {
+      "component": "ComponentInfo{com.decathlon.app/com.decathlon.app.BLUE}",
+      "drawable": "decathlon"
+    },
+    {
+      "component": "ComponentInfo{com.decathlon.app/com.decathlon.app.splash.ActivitySplash}",
+      "drawable": "decathlon"
+    },
+    {
+      "component": "ComponentInfo{com.decathlon.app/com.decathlon.app.splash.SplashActivity}",
+      "drawable": "decathlon"
+    },
+    {
+      "component": "ComponentInfo{com.decathlon.app/com.google.android.archive.ReactivateActivity}",
+      "drawable": "decathlon"
+    },
+    {
+      "component": "ComponentInfo{com.dexcom.g7/com.dexcom.phoenix.ui.SplashActivity}",
+      "drawable": "dexcom_g7"
+    },
+    {
       "component": "ComponentInfo{com.digilocker.android/com.digilocker.android.ui.activity.ActivitySplashScreen}",
       "drawable": "digilocker"
     },
@@ -1173,6 +1338,10 @@
     {
       "component": "ComponentInfo{com.dreamplug.androidapp/com.dreamplug.androidapp.SplashActivity}",
       "drawable": "cred"
+    },
+    {
+      "component": "ComponentInfo{com.easemytrip.android/com.easemytrip.android.SplashScreenActivity}",
+      "drawable": "easemytrip"
     },
     {
       "component": "ComponentInfo{com.et.reader.activities/com.et.reader.activities.ETActivity}",
@@ -1559,8 +1728,48 @@
       "drawable": "blinkit"
     },
     {
+      "component": "ComponentInfo{com.healthkart.healthkart/com.healthkart.MainActivity}",
+      "drawable": "healthkart"
+    },
+    {
+      "component": "ComponentInfo{com.hm.goe/com.google.android.archive.ReactivateActivity}",
+      "drawable": "hm"
+    },
+    {
+      "component": "ComponentInfo{com.hm.goe/com.hm.goe.app.home.HomeActivity}",
+      "drawable": "hm"
+    },
+    {
+      "component": "ComponentInfo{com.hm.goe/com.hm.goe.app.HomeActivity}",
+      "drawable": "hm"
+    },
+    {
+      "component": "ComponentInfo{com.hm.goe/com.hm.goe.MainDefaultAlias}",
+      "drawable": "hm"
+    },
+    {
+      "component": "ComponentInfo{com.hm.goe/com.hm.goe.startup.StartupActivity}",
+      "drawable": "hm"
+    },
+    {
       "component": "ComponentInfo{com.idfcfirstbank.optimus/com.idfcfirstbank.optimus.MainActivity}",
       "drawable": "idfc_first_bank"
+    },
+    {
+      "component": "ComponentInfo{com.ingka.ikea.app/com.google.android.archive.ReactivateActivity}",
+      "drawable": "ikea"
+    },
+    {
+      "component": "ComponentInfo{com.ingka.ikea.app/com.ingka.ikea.app.splash.FirstEntryActivity}",
+      "drawable": "ikea"
+    },
+    {
+      "component": "ComponentInfo{com.ingka.ikea.app/com.ingka.ikea.app.splash.SplashActivity}",
+      "drawable": "ikea"
+    },
+    {
+      "component": "ComponentInfo{com.ingka.ikea.app/com.ingka.ikea.app.SplashActivity}",
+      "drawable": "ikea"
     },
     {
       "component": "ComponentInfo{com.instagram.android/.activity.MainTabActivity}",
@@ -1641,6 +1850,10 @@
     {
       "component": "ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivityAlias2}",
       "drawable": "myjio"
+    },
+    {
+      "component": "ComponentInfo{com.licious/com.licious.intro.activity.SplashActivity}",
+      "drawable": "licious"
     },
     {
       "component": "ComponentInfo{com.linkedin.android/.authenticator.LaunchActivity}",
@@ -1795,6 +2008,10 @@
       "drawable": "thehindu"
     },
     {
+      "component": "ComponentInfo{com.muscleblaze/com.muscleblaze.MainActivity}",
+      "drawable": "muscleblaze"
+    },
+    {
       "component": "ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivity}",
       "drawable": "vi"
     },
@@ -1915,6 +2132,18 @@
       "drawable": "netflix"
     },
     {
+      "component": "ComponentInfo{com.NetmedsMarketplace.Netmeds/com.netmedsmarketplace.netmeds.AppUriSchemeHandler}",
+      "drawable": "netmeds"
+    },
+    {
+      "component": "ComponentInfo{com.NetmedsMarketplace.Netmeds/com.netmedsmarketplace.netmeds.screens.activity.MainActivity}",
+      "drawable": "netmeds"
+    },
+    {
+      "component": "ComponentInfo{com.NetmedsMarketplace.Netmeds/com.netmedsmarketplace.netmeds.screens.splash.SplashActivity}",
+      "drawable": "netmeds"
+    },
+    {
       "component": "ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.genesys.loginsignup.activities.LoginActivity}",
       "drawable": "groww"
     },
@@ -1925,14 +2154,6 @@
     {
       "component": "ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.MainActivitycom.nextbillion.groww}",
       "drawable": "groww"
-    },
-    {
-      "component": "ComponentInfo{com.nps/com.nps.MainActivity}",
-      "drawable": "nps"
-    },
-    {
-      "component": "ComponentInfo{com.nps/com.nps.NewUiLanding}",
-      "drawable": "nps"
     },
     {
       "component": "ComponentInfo{com.openai.chatgpt/com.google.android.archive.ReactivateActivity}",
@@ -1949,6 +2170,10 @@
     {
       "component": "ComponentInfo{com.openai.chatgpt/md.elway.evo.screen.chat.ChatActivity}",
       "drawable": "openai_chatgpt"
+    },
+    {
+      "component": "ComponentInfo{com.phonegap.rxpal/com.pharmeasy.ui.activities.SplashActivity}",
+      "drawable": "pharmeasy"
     },
     {
       "component": "ComponentInfo{com.phonepe.app/com.google.android.archive.ReactivateActivity}",
@@ -2005,6 +2230,58 @@
     {
       "component": "ComponentInfo{com.rapido.passenger/com.rapido.passenger.ValentineAlias}",
       "drawable": "rapido"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/com.reglobe.cashify.MainActivity}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/in.lego.app.MainActivity}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/in.lego.app.MainActivityAliasChristmas}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/in.lego.app.MainActivityAliasDefault}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/in.lego.app.MainActivityAliasDiwali}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/in.lego.app.MainActivityAliasHoli}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/in.lego.app.MainActivityAliasRepublicDay}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.reglobe.cashify/in.lego.app.MainActivityAliasValentine}",
+      "drawable": "cashify"
+    },
+    {
+      "component": "ComponentInfo{com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity}",
+      "drawable": "ajio"
+    },
+    {
+      "component": "ComponentInfo{com.ril.ajio/com.ril.ajio.splashscreen.SplashScreenActivity}",
+      "drawable": "ajio"
+    },
+    {
+      "component": "ComponentInfo{com.ril.ajio/com.ril.ajio.view.splashscreen.SplashScreenActivity}",
+      "drawable": "ajio"
+    },
+    {
+      "component": "ComponentInfo{com.ril.shein/com.ril.shein.launch.activity.SplashScreenActivity}",
+      "drawable": "shein"
+    },
+    {
+      "component": "ComponentInfo{com.ril.shein/com.ril.shein.MainActivity}",
+      "drawable": "shein"
     },
     {
       "component": "ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}",
@@ -2191,6 +2468,18 @@
       "drawable": "samsung_gallery"
     },
     {
+      "component": "ComponentInfo{com.sephora/com.sephora.appmodules.splash.SplashActivity}",
+      "drawable": "sephora"
+    },
+    {
+      "component": "ComponentInfo{com.shopify.arrive/com.shopify.arrive.MainActivity}",
+      "drawable": "shop"
+    },
+    {
+      "component": "ComponentInfo{com.shopify.arrive/com.shopify.shopnativeandroid.MainActivity}",
+      "drawable": "shop"
+    },
+    {
       "component": "ComponentInfo{com.sonyliv/com.data.check.HaipeeKnk}",
       "drawable": "sony_liv"
     },
@@ -2277,6 +2566,14 @@
     {
       "component": "ComponentInfo{com.theporter.android.customerapp/com.theporter.android.customerapp.RootActivity}",
       "drawable": "porter"
+    },
+    {
+      "component": "ComponentInfo{com.thesouledstore/com.thesouledstore.MainActivity}",
+      "drawable": "the_souled_store"
+    },
+    {
+      "component": "ComponentInfo{com.thesouledstore/com.thesouledstore.SplashActivity}",
+      "drawable": "the_souled_store"
     },
     {
       "component": "ComponentInfo{com.truecaller/com.truecaller.messaging.MessagesActivity}",
@@ -2877,6 +3174,34 @@
     {
       "component": "ComponentInfo{com.zeptoconsumerapp/com.zeptoconsumerapp.MainActivity}",
       "drawable": "zepto"
+    },
+    {
+      "component": "ComponentInfo{com.zerodha.coin/com.zerodha.coin.MainActivity}",
+      "drawable": "coin"
+    },
+    {
+      "component": "ComponentInfo{com.zerodha.kite3/com.zerodha.kite3.MainActivity}",
+      "drawable": "zerodha_kite"
+    },
+    {
+      "component": "ComponentInfo{com.zzkko/com.google.android.archive.ReactivateActivity}",
+      "drawable": "shein"
+    },
+    {
+      "component": "ComponentInfo{com.zzkko/com.shein.user_service.welcome.WelcomeActivity}",
+      "drawable": "shein"
+    },
+    {
+      "component": "ComponentInfo{com.zzkko/com.shein.welcome.WelcomeActivity}",
+      "drawable": "shein"
+    },
+    {
+      "component": "ComponentInfo{com.zzkko/com.zzkko.bussiness.login.ui.WelcomeActivity}",
+      "drawable": "shein"
+    },
+    {
+      "component": "ComponentInfo{com.zzkko/com.zzkko.bussiness.welcome.WelcomeActivity}",
+      "drawable": "shein"
     },
     {
       "component": "ComponentInfo{de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity}",

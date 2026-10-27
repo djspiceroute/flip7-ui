@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="apply_hint">%1$s is installed. Choose it as the icon pack in your launcher\'s settings.\n\nKvaesitso: Settings → Appearance → Icons → Icon pack.</string>
+    <string name="missing_label">Missing icons</string>
+    <plurals name="missing_count">
+        <item quantity="one">%1$d installed app has no icon in this pack. Share the list to have it added.</item>
+        <item quantity="other">%1$d installed apps have no icon in this pack. Share the list to have them added.</item>
+    </plurals>
+    <string name="missing_none">Every installed app has an icon in this pack.</string>
+    <string name="missing_subject">Apps missing from the Flip 7 icon pack</string>
+    <string name="share_list">Share list</string>
 </resources>

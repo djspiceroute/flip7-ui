@@ -17,16 +17,20 @@ Previews of every pack: [Hinge Line](preview/hingeLine.svg) · [Hinge Solid](pre
 
 ## What's covered
 
-112 icons for 632 app entry points: the Indian apps on the wish list (shopping, banking, travel, food, entertainment, fitness, government, telecom, news, airlines) plus core Samsung and Google apps.
+137 icons for 682 app entry points: the Indian apps on the wish list (shopping, banking, investing, travel, food, medical, entertainment, fitness, government, telecom, news, airlines) plus core Samsung and Google apps.
 
-Some have no published Android component mapping yet, so they are in the pack but have to be picked by hand: **Practo, Scapia, EaseMyTrip, The Ken, Air India Express, Akasa Air, BOBcard, Licious, Blue Tokai, Burger King India, McDelivery India, Fabindia, NNNow, HealthKart, Tanishq**. The M&S icon is mapped to the UK app's package; the India app may also need picking by hand. In Kvaesitso, long-press the app → **Customize** → tap the icon → choose it from the pack. Sending the app's package name lets it be mapped automatically.
+Some have no published Android component mapping yet, so they are in the pack but have to be picked by hand: **Practo, The Ken, Air India Express, Akasa Air, BOBcard, Blue Tokai, Burger King India, McDelivery India, Fabindia, NNNow, Tanishq, MrMed, MyBSWHealth, Chumbak, InstaCash, Levi's India, MANGO, Minimalist, myShiprocket, Simpli Namdhari's**. The M&S icon is mapped to the UK app's package; the India app may also need picking by hand. In Kvaesitso, long-press the app → **Customize** → tap the icon → choose it from the pack.
+
+### Missing icons screen
+
+The Hinge Line pack adds one entry to the app drawer, **Missing icons**. It lists every installed app the pack has no icon for, with its launcher component (`ComponentInfo{package/activity}`), and a **Share list** button. Those components go into `tools/apps.json` (as `components` on the app's entry) so the icons apply automatically.
 
 ## Installing
 
 1. Copy an APK (for example `iconpack-hingeLine-release.apk`) to the phone and open it. Allow your file manager to install unknown apps when asked; Samsung's Auto Blocker has to be off while installing.
 2. In Kvaesitso: **Settings → Appearance → Icons → Icon pack** → pick the pack.
 
-The packs don't add anything to the app drawer.
+Apart from the Missing icons entry from Hinge Line, the packs don't add anything to the app drawer.
 
 ## Building
 
