@@ -6,17 +6,15 @@
     android:viewportWidth="108"
     android:viewportHeight="108">
     <group android:translateX="21.6" android:translateY="21.6" android:scaleX="1.35" android:scaleY="1.35">
-        <path
-            android:pathData="M 2.5 24 A 21.5 21.5 0 1 0 45.5 24 A 21.5 21.5 0 1 0 2.5 24 Z"
-            android:strokeColor="#D8AE55"
-            android:strokeWidth="1.6"
-            android:strokeLineCap="round"
-            android:strokeLineJoin="round" />
-        <path
-            android:pathData="M 31 16.5 h -8.5 a 4.75 4.75 0 0 0 0 9.5 h 3 a 4.75 4.75 0 0 1 0 9.5 H 17"
-            android:strokeColor="#D8AE55"
-            android:strokeWidth="1.6"
-            android:strokeLineCap="round"
-            android:strokeLineJoin="round" />
+        <group android:scaleX="0.25" android:scaleY="0.25">
+            <group>
+                <path
+                    android:pathData="M 58 54 a 6 6 0 0 1 6 -6 h 64 a 6 6 0 0 1 6 6 v 104 a 6 6 0 0 1 -6 6 H 64 a 6 6 0 0 1 -6 -6 z m 22 -6 v 116 m 22 -94 v 8 m 17 86 v 6 m -48 -6 v 6 m 41 -122 V 28 a 6 6 0 0 0 -6 -6 H 86 a 6 6 0 0 0 -6 6"
+                    android:strokeColor="#D8AE55"
+                    android:strokeWidth="6.4"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round" />
+            </group>
+        </group>
     </group>
 </vector>
