@@ -1,6 +1,11 @@
 {
   "icons": [
     {
+      "drawable": "aarogya_setu",
+      "label": "Aarogya Setu",
+      "glyph": "arcticons/aarogya_setu.svg"
+    },
+    {
       "drawable": "air_india",
       "label": "Air India",
       "glyph": "arcticons/air_india.svg"
@@ -9,6 +14,11 @@
       "drawable": "air_india_express",
       "label": "Air India Express",
       "glyph": "custom/air_india_express.svg"
+    },
+    {
+      "drawable": "airtel",
+      "label": "Airtel Thanks",
+      "glyph": "arcticons/airtel.svg"
     },
     {
       "drawable": "akasa_air",
@@ -41,14 +51,39 @@
       "glyph": "arcticons/axismobile.svg"
     },
     {
+      "drawable": "bigbasket",
+      "label": "bigbasket",
+      "glyph": "arcticons/bigbasket.svg"
+    },
+    {
       "drawable": "blinkit",
       "label": "Blinkit",
       "glyph": "arcticons/blinkit.svg"
     },
     {
+      "drawable": "blue_tokai",
+      "label": "Blue Tokai",
+      "glyph": "custom/blue_tokai.svg"
+    },
+    {
+      "drawable": "bobcard",
+      "label": "BOBcard",
+      "glyph": "custom/bobcard.svg"
+    },
+    {
+      "drawable": "bookmyshow",
+      "label": "BookMyShow",
+      "glyph": "arcticons/bookmyshow.svg"
+    },
+    {
       "drawable": "breezyweather",
       "label": "Breezy Weather",
       "glyph": "arcticons/breezyweather.svg"
+    },
+    {
+      "drawable": "burger_king",
+      "label": "Burger King India",
+      "glyph": "arcticons/burger_king.svg"
     },
     {
       "drawable": "calculator",
@@ -81,6 +116,31 @@
       "glyph": "arcticons/cred.svg"
     },
     {
+      "drawable": "crunchyroll",
+      "label": "Crunchyroll",
+      "glyph": "arcticons/crunchyroll.svg"
+    },
+    {
+      "drawable": "cultfit",
+      "label": "cult.fit",
+      "glyph": "arcticons/cultfit.svg"
+    },
+    {
+      "drawable": "digi_yatra",
+      "label": "DigiYatra",
+      "glyph": "arcticons/digi_yatra.svg"
+    },
+    {
+      "drawable": "digilocker",
+      "label": "DigiLocker",
+      "glyph": "arcticons/digilocker.svg"
+    },
+    {
+      "drawable": "district",
+      "label": "District",
+      "glyph": "arcticons/district.svg"
+    },
+    {
       "drawable": "easemytrip",
       "label": "EaseMyTrip",
       "glyph": "custom/easemytrip.svg"
@@ -91,9 +151,19 @@
       "glyph": "arcticons/economic_times.svg"
     },
     {
+      "drawable": "fabindia",
+      "label": "Fabindia",
+      "glyph": "custom/fabindia.svg"
+    },
+    {
       "drawable": "fdroid",
       "label": "F-Droid",
       "glyph": "arcticons/fdroid.svg"
+    },
+    {
+      "drawable": "fitbod",
+      "label": "Fitbod",
+      "glyph": "arcticons/fitbod.svg"
     },
     {
       "drawable": "flipkart",
@@ -156,6 +226,21 @@
       "glyph": "arcticons/google_play_store.svg"
     },
     {
+      "drawable": "groww",
+      "label": "Groww",
+      "glyph": "arcticons/groww.svg"
+    },
+    {
+      "drawable": "healthkart",
+      "label": "HealthKart",
+      "glyph": "custom/healthkart.svg"
+    },
+    {
+      "drawable": "healthmate",
+      "label": "Withings",
+      "glyph": "arcticons/healthmate.svg"
+    },
+    {
       "drawable": "idfc_first_bank",
       "label": "IDFC FIRST Bank",
       "glyph": "arcticons/idfc_first_bank.svg"
@@ -181,9 +266,19 @@
       "glyph": "arcticons/jiohotstar.svg"
     },
     {
+      "drawable": "kfc",
+      "label": "KFC India",
+      "glyph": "arcticons/kfc.svg"
+    },
+    {
       "drawable": "kvaesitso",
       "label": "Kvaesitso",
       "glyph": "arcticons/kvaesitso.svg"
+    },
+    {
+      "drawable": "licious",
+      "label": "Licious",
+      "glyph": "custom/licious.svg"
     },
     {
       "drawable": "linkedin",
@@ -191,9 +286,29 @@
       "glyph": "arcticons/linkedin.svg"
     },
     {
+      "drawable": "maadhaar",
+      "label": "mAadhaar",
+      "glyph": "arcticons/maadhaar.svg"
+    },
+    {
+      "drawable": "macrofactor",
+      "label": "MacroFactor",
+      "glyph": "arcticons/macrofactor.svg"
+    },
+    {
       "drawable": "makemytrip",
       "label": "MakeMyTrip",
       "glyph": "arcticons/makemytrip.svg"
+    },
+    {
+      "drawable": "marks_and_spencer",
+      "label": "M&S",
+      "glyph": "arcticons/marks_and_spencer.svg"
+    },
+    {
+      "drawable": "mcdelivery",
+      "label": "McDelivery India",
+      "glyph": "arcticons/mcdelivery.svg"
     },
     {
       "drawable": "medplus",
@@ -211,9 +326,19 @@
       "glyph": "arcticons/microsoft_outlook.svg"
     },
     {
+      "drawable": "myjio",
+      "label": "MyJio",
+      "glyph": "arcticons/myjio.svg"
+    },
+    {
       "drawable": "myntra",
       "label": "Myntra",
       "glyph": "arcticons/myntra.svg"
+    },
+    {
+      "drawable": "namma_yatri",
+      "label": "Namma Yatri",
+      "glyph": "arcticons/namma_yatri.svg"
     },
     {
       "drawable": "netflix",
@@ -221,9 +346,24 @@
       "glyph": "arcticons/netflix.svg"
     },
     {
+      "drawable": "nnnow",
+      "label": "NNNow",
+      "glyph": "custom/nnnow.svg"
+    },
+    {
       "drawable": "notes",
       "label": "Samsung Notes",
       "glyph": "arcticons/notes.svg"
+    },
+    {
+      "drawable": "nps",
+      "label": "NPS",
+      "glyph": "arcticons/nps.svg"
+    },
+    {
+      "drawable": "nykaa",
+      "label": "Nykaa",
+      "glyph": "custom/nykaa.svg"
     },
     {
       "drawable": "onecard",
@@ -251,9 +391,19 @@
       "glyph": "arcticons/phonepe.svg"
     },
     {
+      "drawable": "porter",
+      "label": "Porter",
+      "glyph": "arcticons/porter.svg"
+    },
+    {
       "drawable": "practo",
       "label": "Practo",
       "glyph": "custom/practo.svg"
+    },
+    {
+      "drawable": "pvr",
+      "label": "PVR INOX",
+      "glyph": "arcticons/pvr.svg"
     },
     {
       "drawable": "railone",
@@ -301,14 +451,29 @@
       "glyph": "arcticons/settings.svg"
     },
     {
+      "drawable": "sony_liv",
+      "label": "Sony LIV",
+      "glyph": "arcticons/sony_liv.svg"
+    },
+    {
       "drawable": "spotify",
       "label": "Spotify",
       "glyph": "arcticons/spotify.svg"
     },
     {
+      "drawable": "starbucks",
+      "label": "Starbucks India",
+      "glyph": "arcticons/starbucks.svg"
+    },
+    {
       "drawable": "swiggy",
       "label": "Swiggy",
       "glyph": "arcticons/swiggy.svg"
+    },
+    {
+      "drawable": "tanishq",
+      "label": "Tanishq",
+      "glyph": "custom/tanishq.svg"
     },
     {
       "drawable": "tata_1mg",
@@ -331,9 +496,29 @@
       "glyph": "arcticons/thehindu.svg"
     },
     {
+      "drawable": "third_wave_coffee",
+      "label": "Third Wave Coffee",
+      "glyph": "arcticons/coffee.svg"
+    },
+    {
       "drawable": "truecaller",
       "label": "Truecaller",
       "glyph": "custom/truecaller.svg"
+    },
+    {
+      "drawable": "ultrahuman",
+      "label": "Ultrahuman",
+      "glyph": "arcticons/ultrahuman.svg"
+    },
+    {
+      "drawable": "umang",
+      "label": "UMANG",
+      "glyph": "arcticons/umang.svg"
+    },
+    {
+      "drawable": "vi",
+      "label": "Vi",
+      "glyph": "arcticons/vi.svg"
     },
     {
       "drawable": "whatsapp",
@@ -354,6 +539,11 @@
       "drawable": "youtube_music",
       "label": "YouTube Music",
       "glyph": "arcticons/youtube_music.svg"
+    },
+    {
+      "drawable": "zee5",
+      "label": "ZEE5",
+      "glyph": "arcticons/zee5.svg"
     },
     {
       "drawable": "zepto",
@@ -812,6 +1002,10 @@
       "drawable": "apollo_247"
     },
     {
+      "component": "ComponentInfo{com.application.zomato.district/com.application.zomato.gooutandroid.MainActivity}",
+      "drawable": "district"
+    },
+    {
       "component": "ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}",
       "drawable": "zomato"
     },
@@ -860,8 +1054,76 @@
       "drawable": "air_india"
     },
     {
+      "component": "ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivity}",
+      "drawable": "bigbasket"
+    },
+    {
+      "component": "ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivityChristmas}",
+      "drawable": "bigbasket"
+    },
+    {
+      "component": "ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivityDefault}",
+      "drawable": "bigbasket"
+    },
+    {
+      "component": "ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivityFestiveIcon}",
+      "drawable": "bigbasket"
+    },
+    {
+      "component": "ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivityFestiveIcon2}",
+      "drawable": "bigbasket"
+    },
+    {
+      "component": "ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivityHoli}",
+      "drawable": "bigbasket"
+    },
+    {
+      "component": "ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivityValentine}",
+      "drawable": "bigbasket"
+    },
+    {
+      "component": "ComponentInfo{com.bt.bms/com.bt.bms.activities.SplashActivity}",
+      "drawable": "bookmyshow"
+    },
+    {
+      "component": "ComponentInfo{com.bt.bms/com.bt.bms.activity.SplashActivity}",
+      "drawable": "bookmyshow"
+    },
+    {
+      "component": "ComponentInfo{com.bt.bms/com.movie.bms.splash.views.activities.SplashScreenActivity}",
+      "drawable": "bookmyshow"
+    },
+    {
+      "component": "ComponentInfo{com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity}",
+      "drawable": "bookmyshow"
+    },
+    {
       "component": "ComponentInfo{com.creditcard.onecard/com.creditcard.onecard.MainActivity}",
       "drawable": "onecard"
+    },
+    {
+      "component": "ComponentInfo{com.crunchyroll.crunchyroid/com.crunchyroll.crunchyroid.activities.SplashActivity}",
+      "drawable": "crunchyroll"
+    },
+    {
+      "component": "ComponentInfo{com.crunchyroll.crunchyroid/com.crunchyroll.crunchyroid.activity.SplashActivity}",
+      "drawable": "crunchyroll"
+    },
+    {
+      "component": "ComponentInfo{com.crunchyroll.crunchyroid/com.crunchyroll.crunchyroid.ui.views.activities.SplashActivity}",
+      "drawable": "crunchyroll"
+    },
+    {
+      "component": "ComponentInfo{com.crunchyroll.crunchyroid/com.crunchyroll.neo.android.activity.DelegatingActivity}",
+      "drawable": "crunchyroll"
+    },
+    {
+      "component": "ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}",
+      "drawable": "crunchyroll"
+    },
+    {
+      "component": "ComponentInfo{com.crunchyroll.crunchyroid/com.google.android.archive.ReactivateActivity}",
+      "drawable": "crunchyroll"
     },
     {
       "component": "ComponentInfo{com.csam.icici.bank.imobile/com.csam.icici.bank.imobile.ICICIActivity}",
@@ -878,6 +1140,26 @@
     {
       "component": "ComponentInfo{com.csam.icici.bank.imobile/com.icici.v3.activation.presentation.welcome.activity.WelcomeActivity}",
       "drawable": "imobile_pay"
+    },
+    {
+      "component": "ComponentInfo{com.digilocker.android/com.digilocker.android.ui.activity.ActivitySplashScreen}",
+      "drawable": "digilocker"
+    },
+    {
+      "component": "ComponentInfo{com.digilocker.android/com.digilocker.android.ui.activity.dashboard.activity.MainDashboardActivity}",
+      "drawable": "digilocker"
+    },
+    {
+      "component": "ComponentInfo{com.digilocker.android/com.digilocker.android.ui.activity.SplashScreenActivity}",
+      "drawable": "digilocker"
+    },
+    {
+      "component": "ComponentInfo{com.digilocker.android/com.digilocker.android.ui.activity.SplashScreenActivitycom.digilocker.android}",
+      "drawable": "digilocker"
+    },
+    {
+      "component": "ComponentInfo{com.digilocker.android/in.gov.digilocker.views.mainactivity.SplashScreenActivity}",
+      "drawable": "digilocker"
     },
     {
       "component": "ComponentInfo{com.dreamplug.androidapp/com.dreamplug.androidapp.CredFlutterActivity}",
@@ -902,6 +1184,10 @@
     {
       "component": "ComponentInfo{com.et.reader.activities/com.et.reader.activities.SplashActivityPrime}",
       "drawable": "economic_times"
+    },
+    {
+      "component": "ComponentInfo{com.fitbod.fitbod/com.fitbod.fitbod.main.MainActivity}",
+      "drawable": "fitbod"
     },
     {
       "component": "ComponentInfo{com.flipkart.android/com.flipkart.android.BBDIconAlias}",
@@ -966,6 +1252,22 @@
     {
       "component": "ComponentInfo{com.flipkart.android/com.flipkart.android.VIPIconAlias}",
       "drawable": "flipkart"
+    },
+    {
+      "component": "ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.default}",
+      "drawable": "nykaa"
+    },
+    {
+      "component": "ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.firstIcon}",
+      "drawable": "nykaa"
+    },
+    {
+      "component": "ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.SplashScreenActivity}",
+      "drawable": "nykaa"
+    },
+    {
+      "component": "ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.SplashScreenActivityV2}",
+      "drawable": "nykaa"
     },
     {
       "component": "ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}",
@@ -1156,6 +1458,18 @@
       "drawable": "youtube"
     },
     {
+      "component": "ComponentInfo{com.graymatrix.did/com.applicaster.componentsapp.IntroActivity}",
+      "drawable": "zee5"
+    },
+    {
+      "component": "ComponentInfo{com.graymatrix.did/com.graymatrix.did.splash.SplashActivity}",
+      "drawable": "zee5"
+    },
+    {
+      "component": "ComponentInfo{com.graymatrix.did/com.zee5.splash.SplashActivity}",
+      "drawable": "zee5"
+    },
+    {
       "component": "ComponentInfo{com.grofers.customerapp/com.google.android.archive.ReactivateActivity}",
       "drawable": "blinkit"
     },
@@ -1288,6 +1602,30 @@
       "drawable": "instagram"
     },
     {
+      "component": "ComponentInfo{com.jio.myjio/com.jio.myjio.activities.StartAllAppView}",
+      "drawable": "myjio"
+    },
+    {
+      "component": "ComponentInfo{com.jio.myjio/com.jio.myjio.activities.StartFolderView}",
+      "drawable": "myjio"
+    },
+    {
+      "component": "ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.DashboardActivity}",
+      "drawable": "myjio"
+    },
+    {
+      "component": "ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity}",
+      "drawable": "myjio"
+    },
+    {
+      "component": "ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivityAlias}",
+      "drawable": "myjio"
+    },
+    {
+      "component": "ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivityAlias2}",
+      "drawable": "myjio"
+    },
+    {
       "component": "ComponentInfo{com.linkedin.android/.authenticator.LaunchActivity}",
       "drawable": "linkedin"
     },
@@ -1388,6 +1726,18 @@
       "drawable": "makemytrip"
     },
     {
+      "component": "ComponentInfo{com.marksandspencer.app/com.marksandspencer.app.startup.SplashScreenActivity}",
+      "drawable": "marks_and_spencer"
+    },
+    {
+      "component": "ComponentInfo{com.marksandspencer.app/com.marksandspencer.startup.view.SplashActivity}",
+      "drawable": "marks_and_spencer"
+    },
+    {
+      "component": "ComponentInfo{com.marksandspencer.app/com.marksandspencer.startup.view.SplashScreenActivity}",
+      "drawable": "marks_and_spencer"
+    },
+    {
       "component": "ComponentInfo{com.medplus.mobile.android/com.medplus.mobile.android.MainActivity}",
       "drawable": "medplus"
     },
@@ -1428,6 +1778,62 @@
       "drawable": "thehindu"
     },
     {
+      "component": "ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivity}",
+      "drawable": "vi"
+    },
+    {
+      "component": "ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivityic_festival}",
+      "drawable": "vi"
+    },
+    {
+      "component": "ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivityic_independence}",
+      "drawable": "vi"
+    },
+    {
+      "component": "ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivityic_launcher}",
+      "drawable": "vi"
+    },
+    {
+      "component": "ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.SplashScreenActivity}",
+      "drawable": "vi"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.activities.LauncherActivity}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.activity.HomeActivity}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.activity.OnboardingActivity}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.activity.SplashScreenActivity}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.AirtelActivity}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.NewHomeActivity}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivityAlias}",
+      "drawable": "airtel"
+    },
+    {
+      "component": "ComponentInfo{com.myairtelapp/com.myairtelapp.SplashActivity}",
+      "drawable": "airtel"
+    },
+    {
       "component": "ComponentInfo{com.myntra.android/com.myntra.android.activities.FwdShortcutActivity}",
       "drawable": "myntra"
     },
@@ -1460,6 +1866,14 @@
       "drawable": "myntra"
     },
     {
+      "component": "ComponentInfo{com.net.pvr/com.google.android.archive.ReactivateActivity}",
+      "drawable": "pvr"
+    },
+    {
+      "component": "ComponentInfo{com.net.pvr/com.net.pvr.ui.splash.SplashActivity}",
+      "drawable": "pvr"
+    },
+    {
       "component": "ComponentInfo{com.netflix.mediaclient/com.battlenet.showguide.SplashActivity}",
       "drawable": "netflix"
     },
@@ -1482,6 +1896,26 @@
     {
       "component": "ComponentInfo{com.netflix.mediaclient/com.piyush.music.activities.main.MainActivity}",
       "drawable": "netflix"
+    },
+    {
+      "component": "ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.genesys.loginsignup.activities.LoginActivity}",
+      "drawable": "groww"
+    },
+    {
+      "component": "ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.MainActivity}",
+      "drawable": "groww"
+    },
+    {
+      "component": "ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.MainActivitycom.nextbillion.groww}",
+      "drawable": "groww"
+    },
+    {
+      "component": "ComponentInfo{com.nps/com.nps.MainActivity}",
+      "drawable": "nps"
+    },
+    {
+      "component": "ComponentInfo{com.nps/com.nps.NewUiLanding}",
+      "drawable": "nps"
     },
     {
       "component": "ComponentInfo{com.openai.chatgpt/com.google.android.archive.ReactivateActivity}",
@@ -1616,6 +2050,18 @@
       "drawable": "yono_sbi"
     },
     {
+      "component": "ComponentInfo{com.sbs.diet/com.sbs.diet.MainActivity}",
+      "drawable": "macrofactor"
+    },
+    {
+      "component": "ComponentInfo{com.sbs.diet/com.sbs.diet.MainActivityAlias}",
+      "drawable": "macrofactor"
+    },
+    {
+      "component": "ComponentInfo{com.sbs.diet/com.sbs.diet.MainActivityAliasClassic}",
+      "drawable": "macrofactor"
+    },
+    {
       "component": "ComponentInfo{com.sec.android.app.camera/.Camera}",
       "drawable": "samsung_camera"
     },
@@ -1728,6 +2174,26 @@
       "drawable": "samsung_gallery"
     },
     {
+      "component": "ComponentInfo{com.sonyliv/com.data.check.HaipeeKnk}",
+      "drawable": "sony_liv"
+    },
+    {
+      "component": "ComponentInfo{com.sonyliv/com.razpay.apk.HaipeeKnk}",
+      "drawable": "sony_liv"
+    },
+    {
+      "component": "ComponentInfo{com.sonyliv/com.sonyliv.splash.SplashActivity}",
+      "drawable": "sony_liv"
+    },
+    {
+      "component": "ComponentInfo{com.sonyliv/com.sonyliv.ui.splash.SplashActivity}",
+      "drawable": "sony_liv"
+    },
+    {
+      "component": "ComponentInfo{com.sonyliv/tv.accedo.via.android.app.splash.InitializationActivity}",
+      "drawable": "sony_liv"
+    },
+    {
       "component": "ComponentInfo{com.spotify.music/com.duapps.ad.DuAd}",
       "drawable": "spotify"
     },
@@ -1780,12 +2246,20 @@
       "drawable": "spotify"
     },
     {
+      "component": "ComponentInfo{com.starbucks.in/com.tsb.app.home.presentation.view.activity.HomeActivity}",
+      "drawable": "starbucks"
+    },
+    {
       "component": "ComponentInfo{com.tatadigital.tcp/com.tatadigital.tcp.MainActivity}",
       "drawable": "tata_neu"
     },
     {
       "component": "ComponentInfo{com.tatadigital.tcp/com.tatadigital.tcp.registration.ui.activity.SplashActivity}",
       "drawable": "tata_neu"
+    },
+    {
+      "component": "ComponentInfo{com.theporter.android.customerapp/com.theporter.android.customerapp.RootActivity}",
+      "drawable": "porter"
     },
     {
       "component": "ComponentInfo{com.truecaller/com.truecaller.messaging.MessagesActivity}",
@@ -1802,6 +2276,10 @@
     {
       "component": "ComponentInfo{com.truecaller/com.truecaller.ui.TrueCallerUI}",
       "drawable": "truecaller"
+    },
+    {
+      "component": "ComponentInfo{com.ultrahuman.android/com.ultrahuman.android.splash.SplashActivity}",
+      "drawable": "ultrahuman"
     },
     {
       "component": "ComponentInfo{com.whatsapp/com.whatsapp.0}",
@@ -2356,6 +2834,22 @@
       "drawable": "whatsapp"
     },
     {
+      "component": "ComponentInfo{com.withings.wiscale2/com.withings.wiscale2.MainActivity}",
+      "drawable": "healthmate"
+    },
+    {
+      "component": "ComponentInfo{com.yum.kfc/com.cognizantorderserv.kfcindiadroid.MainActivity}",
+      "drawable": "kfc"
+    },
+    {
+      "component": "ComponentInfo{com.yum.kfc/com.yum.kfc.MainActivity}",
+      "drawable": "kfc"
+    },
+    {
+      "component": "ComponentInfo{com.yum.kfc/crc64ded25ac84fd66723.MainActivity}",
+      "drawable": "kfc"
+    },
+    {
       "component": "ComponentInfo{com.zeptoconsumerapp/com.zeptoconsumerapp.APP_ICON_CAMPAIGN_1}",
       "drawable": "zepto"
     },
@@ -2376,6 +2870,18 @@
       "drawable": "kvaesitso"
     },
     {
+      "component": "ComponentInfo{fit.cure.android/fit.cure.android.MainActivity}",
+      "drawable": "cultfit"
+    },
+    {
+      "component": "ComponentInfo{fit.cure.android/fit.cure.android.MainActivityChampion}",
+      "drawable": "cultfit"
+    },
+    {
+      "component": "ComponentInfo{fit.cure.android/fit.cure.android.MainActivityDefault}",
+      "drawable": "cultfit"
+    },
+    {
       "component": "ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}",
       "drawable": "amazon_shopping"
     },
@@ -2390,6 +2896,38 @@
     {
       "component": "ComponentInfo{in.goindigo.android/in.goindigo.android.ui.modules.splash.SplashActivity}",
       "drawable": "indigo"
+    },
+    {
+      "component": "ComponentInfo{in.gov.uidai.mAadhaarPlus/in.gov.uidai.mAadhaarPlus.MainActivity}",
+      "drawable": "maadhaar"
+    },
+    {
+      "component": "ComponentInfo{in.gov.uidai.mAadhaarPlus/in.gov.uidai.mAadhaarPlus.ui.activity.SplashScreenActivity}",
+      "drawable": "maadhaar"
+    },
+    {
+      "component": "ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.kotlin.ui.splash.SplashActivity}",
+      "drawable": "umang"
+    },
+    {
+      "component": "ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.kotlin.ui.splash.UmangLauncherActivity}",
+      "drawable": "umang"
+    },
+    {
+      "component": "ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.ui.base.splash_screen.SplashActivity}",
+      "drawable": "umang"
+    },
+    {
+      "component": "ComponentInfo{in.juspay.nammayatri/com.mobility.movingtech.AppIconAlias_default}",
+      "drawable": "namma_yatri"
+    },
+    {
+      "component": "ComponentInfo{in.juspay.nammayatri/com.mobility.movingtech.MainActivity}",
+      "drawable": "namma_yatri"
+    },
+    {
+      "component": "ComponentInfo{in.juspay.nammayatri/in.juspay.mobility.MainActivity}",
+      "drawable": "namma_yatri"
     },
     {
       "component": "ComponentInfo{in.startv.hotstar/com.google.android.archive.ReactivateActivity}",
@@ -2452,6 +2990,18 @@
       "drawable": "swiggy"
     },
     {
+      "component": "ComponentInfo{in.thirdwavecoffee.android/com.google.android.archive.ReactivateActivity}",
+      "drawable": "third_wave_coffee"
+    },
+    {
+      "component": "ComponentInfo{in.thirdwavecoffee.android/in.thirdwavecoffee.android.MainActivity}",
+      "drawable": "third_wave_coffee"
+    },
+    {
+      "component": "ComponentInfo{in.thirdwavecoffee.android/in.thirdwavecoffee.android.views.activities.SplashActivity}",
+      "drawable": "third_wave_coffee"
+    },
+    {
       "component": "ComponentInfo{net.one97.paytm/net.one97.paytm.AJRJarvisSplash}",
       "drawable": "paytm"
     },
@@ -2480,6 +3030,22 @@
       "drawable": "paytm"
     },
     {
+      "component": "ComponentInfo{nic.goi.aarogyasetu/nic.goi.aarogyasetu.MainActivity}",
+      "drawable": "aarogya_setu"
+    },
+    {
+      "component": "ComponentInfo{nic.goi.aarogyasetu/nic.goi.aarogyasetu.views.SplashActivity}",
+      "drawable": "aarogya_setu"
+    },
+    {
+      "component": "ComponentInfo{nps.nps/nps.nps.MainActivity}",
+      "drawable": "nps"
+    },
+    {
+      "component": "ComponentInfo{nps.nps/nps.nps.SplashScreen}",
+      "drawable": "nps"
+    },
+    {
       "component": "ComponentInfo{org.breezyweather/org.breezyweather.main.MainActivity}",
       "drawable": "breezyweather"
     },
@@ -2490,6 +3056,10 @@
     {
       "component": "ComponentInfo{org.cris.aikyam/com.example.aikyam.MainActivity}",
       "drawable": "railone"
+    },
+    {
+      "component": "ComponentInfo{org.digiyatra.org/org.digiyatra.org.MainActivity}",
+      "drawable": "digi_yatra"
     },
     {
       "component": "ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}",

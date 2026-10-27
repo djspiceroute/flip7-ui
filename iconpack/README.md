@@ -17,9 +17,9 @@ Previews of every pack: [Hinge Line](preview/hingeLine.svg) · [Hinge Solid](pre
 
 ## What's covered
 
-73 icons for 534 app entry points: the Indian apps on the wish list (shopping, banking, travel, health, news, airlines) plus core Samsung and Google apps.
+111 icons for 629 app entry points: the Indian apps on the wish list (shopping, banking, travel, food, entertainment, fitness, government, telecom, news, airlines) plus core Samsung and Google apps.
 
-Seven of them have no published Android component mapping yet, so they are in the pack but have to be picked by hand: **Practo, Scapia, EaseMyTrip, The Ken, Air India Express, Akasa Air**. In Kvaesitso, long-press the app → **Customize** → tap the icon → choose it from the pack. Sending the app's package name lets it be mapped automatically.
+Some have no published Android component mapping yet, so they are in the pack but have to be picked by hand: **Practo, Scapia, EaseMyTrip, The Ken, Air India Express, Akasa Air, BOBcard, Licious, Blue Tokai, Burger King India, McDelivery India, Fabindia, NNNow, HealthKart, Tanishq**. The M&S icon is mapped to the UK app's package; the India app may also need picking by hand. In Kvaesitso, long-press the app → **Customize** → tap the icon → choose it from the pack. Sending the app's package name lets it be mapped automatically.
 
 ## Installing
 
