@@ -366,6 +366,11 @@
       "glyph": "custom/nykaa.svg"
     },
     {
+      "drawable": "nykaaman",
+      "label": "Nykaa Man",
+      "glyph": "arcticons/nykaaman.svg"
+    },
+    {
       "drawable": "onecard",
       "label": "OneCard",
       "glyph": "arcticons/onecard.svg"
@@ -1252,6 +1257,18 @@
     {
       "component": "ComponentInfo{com.flipkart.android/com.flipkart.android.VIPIconAlias}",
       "drawable": "flipkart"
+    },
+    {
+      "component": "ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.default}",
+      "drawable": "nykaaman"
+    },
+    {
+      "component": "ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.SplashScreenActivity}",
+      "drawable": "nykaaman"
+    },
+    {
+      "component": "ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.SplashScreenActivityV2}",
+      "drawable": "nykaaman"
     },
     {
       "component": "ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.default}",

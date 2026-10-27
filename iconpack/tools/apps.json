@@ -59,6 +59,7 @@
     { "label": "BookMyShow", "package": "com.bt.bms" },
     { "label": "Crunchyroll", "package": "com.crunchyroll.crunchyroid" },
     { "label": "Nykaa", "package": "com.fsn.nykaa", "drawable": "nykaa", "glyph": "custom" },
+    { "label": "Nykaa Man", "package": "com.fsn.nykaa.man" },
     { "label": "Fabindia", "drawable": "fabindia", "glyph": "custom" },
     { "label": "M&S", "package": "com.marksandspencer.app" },
     { "label": "bigbasket", "package": "com.bigbasket.mobileapp" },

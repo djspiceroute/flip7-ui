@@ -331,6 +331,10 @@
     <item component="ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.firstIcon}" drawable="nykaa" />
     <item component="ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.SplashScreenActivity}" drawable="nykaa" />
     <item component="ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.SplashScreenActivityV2}" drawable="nykaa" />
+    <!-- Nykaa Man -->
+    <item component="ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.default}" drawable="nykaaman" />
+    <item component="ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.SplashScreenActivity}" drawable="nykaaman" />
+    <item component="ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.SplashScreenActivityV2}" drawable="nykaaman" />
     <!-- OneCard -->
     <item component="ComponentInfo{com.creditcard.onecard/com.creditcard.onecard.MainActivity}" drawable="onecard" />
     <!-- Outlook -->
