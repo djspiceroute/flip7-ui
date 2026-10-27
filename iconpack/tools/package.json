@@ -1,0 +1,11 @@
+{
+  "name": "flip7-iconpack-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.11.2"
+  }
+}
