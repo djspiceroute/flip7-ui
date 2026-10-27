@@ -17,7 +17,7 @@ Previews of every pack: [Hinge Line](preview/hingeLine.svg) · [Hinge Solid](pre
 
 ## What's covered
 
-230 icons for 1090 app entry points: the apps on the wish list (shopping, food, banking and payments in India and the US, investing, travel, hotels, medical, fitness, entertainment, news and reading, social, productivity, government, telecom, airlines) plus core Samsung and Google apps.
+322 icons for 1328 app entry points: the apps on the wish list (shopping, food, banking and payments in India and the US, investing, travel, hotels, medical, fitness, entertainment, news and reading, social, productivity, government, telecom, airlines) plus core Samsung and Google apps.
 
 The entries in `tools/apps.json` with neither a `package` nor `components` have no known launcher component yet (mostly Indian apps no public icon pack covers, such as Practo, Tanishq, Chaayos and Taj Hotels). Their icons are in the pack but have to be picked by hand: in Kvaesitso, long-press the app → **Customize** → tap the icon → choose it from the pack. The Missing icons screen below fixes that.
 

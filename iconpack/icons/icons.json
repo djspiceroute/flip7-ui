@@ -6,6 +6,11 @@
       "glyph": "arcticons/_23andme.svg"
     },
     {
+      "drawable": "_7eleven",
+      "label": "7-Eleven",
+      "glyph": "arcticons/_7eleven.svg"
+    },
+    {
       "drawable": "aarogya_setu",
       "label": "Aarogya Setu",
       "glyph": "arcticons/aarogya_setu.svg"
@@ -14,6 +19,11 @@
       "drawable": "acko",
       "label": "ACKO",
       "glyph": "arcticons/acko.svg"
+    },
+    {
+      "drawable": "activ_health",
+      "label": "Activ Health",
+      "glyph": "custom/activ_health.svg"
     },
     {
       "drawable": "adani_one",
@@ -79,6 +89,16 @@
       "drawable": "apollo_247",
       "label": "Apollo 247",
       "glyph": "arcticons/apollo_247.svg"
+    },
+    {
+      "drawable": "apple_tv",
+      "label": "Apple TV",
+      "glyph": "arcticons/apple_tv.svg"
+    },
+    {
+      "drawable": "applemusic",
+      "label": "Apple Music",
+      "glyph": "arcticons/applemusic.svg"
     },
     {
       "drawable": "atithi",
@@ -156,6 +176,11 @@
       "glyph": "arcticons/burger_king.svg"
     },
     {
+      "drawable": "buybackart",
+      "label": "BuyBacKart",
+      "glyph": "custom/buybackart.svg"
+    },
+    {
       "drawable": "calculator",
       "label": "Calculator",
       "glyph": "arcticons/calculator.svg"
@@ -211,6 +236,11 @@
       "glyph": "arcticons/clock.svg"
     },
     {
+      "drawable": "cloud",
+      "label": "JioAICloud",
+      "glyph": "arcticons/cloud.svg"
+    },
+    {
       "drawable": "coin",
       "label": "Coin by Zerodha",
       "glyph": "arcticons/coin.svg"
@@ -226,9 +256,24 @@
       "glyph": "arcticons/costco.svg"
     },
     {
+      "drawable": "coursera",
+      "label": "Coursera",
+      "glyph": "arcticons/coursera.svg"
+    },
+    {
+      "drawable": "creative_studio",
+      "label": "Creative studio",
+      "glyph": "arcticons/creative_studio.svg"
+    },
+    {
       "drawable": "cred",
       "label": "CRED",
       "glyph": "arcticons/cred.svg"
+    },
+    {
+      "drawable": "crossword",
+      "label": "NYT Games",
+      "glyph": "arcticons/crossword.svg"
     },
     {
       "drawable": "crunchyroll",
@@ -261,6 +306,11 @@
       "glyph": "arcticons/delhivery.svg"
     },
     {
+      "drawable": "delta_icon_pack",
+      "label": "Delta",
+      "glyph": "arcticons/delta_icon_pack.svg"
+    },
+    {
       "drawable": "dexcom_g7",
       "label": "Dexcom G7",
       "glyph": "arcticons/dexcom_g6.svg"
@@ -289,6 +339,11 @@
       "drawable": "dominos",
       "label": "Domino's",
       "glyph": "arcticons/dominos.svg"
+    },
+    {
+      "drawable": "dramabox",
+      "label": "DramaBox",
+      "glyph": "arcticons/dramabox.svg"
     },
     {
       "drawable": "dropbox",
@@ -326,9 +381,24 @@
       "glyph": "arcticons/facebook.svg"
     },
     {
+      "drawable": "facebook_messenger",
+      "label": "Messenger",
+      "glyph": "arcticons/facebook_messenger.svg"
+    },
+    {
       "drawable": "fdroid",
       "label": "F-Droid",
       "glyph": "arcticons/fdroid.svg"
+    },
+    {
+      "drawable": "find",
+      "label": "Find",
+      "glyph": "arcticons/find.svg"
+    },
+    {
+      "drawable": "firstclub",
+      "label": "Firstclub",
+      "glyph": "custom/firstclub.svg"
     },
     {
       "drawable": "fitbod",
@@ -351,6 +421,11 @@
       "glyph": "arcticons/flixbus.svg"
     },
     {
+      "drawable": "flud",
+      "label": "Flud+",
+      "glyph": "arcticons/flud.svg"
+    },
+    {
       "drawable": "folder",
       "label": "My Files",
       "glyph": "arcticons/folder.svg"
@@ -366,6 +441,11 @@
       "glyph": "arcticons/galaxywearable.svg"
     },
     {
+      "drawable": "gamelauncher",
+      "label": "Gaming Hub",
+      "glyph": "arcticons/gamelauncher.svg"
+    },
+    {
       "drawable": "ghostery",
       "label": "Ghostery",
       "glyph": "arcticons/ghostery.svg"
@@ -376,9 +456,19 @@
       "glyph": "arcticons/github.svg"
     },
     {
+      "drawable": "global_entry",
+      "label": "Global Entry",
+      "glyph": "arcticons/global_entry.svg"
+    },
+    {
       "drawable": "gokhana",
       "label": "GoKhana",
       "glyph": "custom/gokhana.svg"
+    },
+    {
+      "drawable": "good_lock",
+      "label": "Good Lock",
+      "glyph": "arcticons/good_lock.svg"
     },
     {
       "drawable": "google",
@@ -391,6 +481,26 @@
       "glyph": "arcticons/google_chrome.svg"
     },
     {
+      "drawable": "google_docs",
+      "label": "Docs",
+      "glyph": "arcticons/google_docs.svg"
+    },
+    {
+      "drawable": "google_drive",
+      "label": "Drive",
+      "glyph": "arcticons/google_drive.svg"
+    },
+    {
+      "drawable": "google_find_device",
+      "label": "Find Hub",
+      "glyph": "arcticons/google_find_device.svg"
+    },
+    {
+      "drawable": "google_fit",
+      "label": "Fit",
+      "glyph": "arcticons/google_fit.svg"
+    },
+    {
       "drawable": "google_gemini",
       "label": "Gemini",
       "glyph": "arcticons/google_gemini.svg"
@@ -399,6 +509,16 @@
       "drawable": "google_health",
       "label": "Google Health",
       "glyph": "arcticons/google_health.svg"
+    },
+    {
+      "drawable": "google_home",
+      "label": "Home",
+      "glyph": "arcticons/google_home.svg"
+    },
+    {
+      "drawable": "google_keyboard",
+      "label": "Gboard",
+      "glyph": "arcticons/google_keyboard.svg"
     },
     {
       "drawable": "google_mail",
@@ -411,6 +531,21 @@
       "glyph": "arcticons/google_maps.svg"
     },
     {
+      "drawable": "google_meet",
+      "label": "Meet",
+      "glyph": "arcticons/google_meet.svg"
+    },
+    {
+      "drawable": "google_messages",
+      "label": "Messages",
+      "glyph": "arcticons/google_messages.svg"
+    },
+    {
+      "drawable": "google_one",
+      "label": "Google One",
+      "glyph": "arcticons/google_one.svg"
+    },
+    {
       "drawable": "google_pay",
       "label": "Google Pay",
       "glyph": "arcticons/google_pay.svg"
@@ -421,9 +556,44 @@
       "glyph": "arcticons/google_photos.svg"
     },
     {
+      "drawable": "google_play_books",
+      "label": "Play Books",
+      "glyph": "arcticons/google_play_books.svg"
+    },
+    {
       "drawable": "google_play_store",
       "label": "Play Store",
       "glyph": "arcticons/google_play_store.svg"
+    },
+    {
+      "drawable": "google_sheets",
+      "label": "Sheets",
+      "glyph": "arcticons/google_sheets.svg"
+    },
+    {
+      "drawable": "google_tv",
+      "label": "Google TV",
+      "glyph": "arcticons/google_tv.svg"
+    },
+    {
+      "drawable": "google_voice",
+      "label": "Voice",
+      "glyph": "arcticons/google_voice.svg"
+    },
+    {
+      "drawable": "google_wallet",
+      "label": "Wallet",
+      "glyph": "arcticons/google_wallet.svg"
+    },
+    {
+      "drawable": "gravadordevoz",
+      "label": "Voice Recorder",
+      "glyph": "arcticons/gravadordevoz.svg"
+    },
+    {
+      "drawable": "greythr",
+      "label": "greytHR",
+      "glyph": "custom/greythr.svg"
     },
     {
       "drawable": "groww",
@@ -476,9 +646,19 @@
       "glyph": "arcticons/hotels_com.svg"
     },
     {
+      "drawable": "hpprinteraio",
+      "label": "HP",
+      "glyph": "arcticons/hpprinteraio.svg"
+    },
+    {
       "drawable": "hsbc",
       "label": "HSBC India",
       "glyph": "arcticons/hsbc.svg"
+    },
+    {
+      "drawable": "hyatt",
+      "label": "Hyatt",
+      "glyph": "custom/hyatt.svg"
     },
     {
       "drawable": "idfc_first_bank",
@@ -494,6 +674,11 @@
       "drawable": "imobile_pay",
       "label": "ICICI iMobile",
       "glyph": "arcticons/imobile_pay.svg"
+    },
+    {
+      "drawable": "imprint",
+      "label": "Imprint",
+      "glyph": "arcticons/imprint.svg"
     },
     {
       "drawable": "indie",
@@ -521,9 +706,19 @@
       "glyph": "arcticons/instagram_threads.svg"
     },
     {
+      "drawable": "instamart",
+      "label": "Instamart",
+      "glyph": "arcticons/instamart.svg"
+    },
+    {
       "drawable": "irctc_rail_connect",
       "label": "IRCTC Rail Connect",
       "glyph": "arcticons/irctc_rail_connect.svg"
+    },
+    {
+      "drawable": "jiofinance",
+      "label": "JioFinance",
+      "glyph": "arcticons/jiofinance.svg"
     },
     {
       "drawable": "jiohotstar",
@@ -531,9 +726,19 @@
       "glyph": "arcticons/jiohotstar.svg"
     },
     {
+      "drawable": "jiomart",
+      "label": "JioMart",
+      "glyph": "arcticons/jiomart.svg"
+    },
+    {
       "drawable": "kayak",
       "label": "KAYAK",
       "glyph": "arcticons/letter_uppercase_square_k.svg"
+    },
+    {
+      "drawable": "keka",
+      "label": "Keka",
+      "glyph": "custom/keka.svg"
     },
     {
       "drawable": "kfc",
@@ -561,6 +766,21 @@
       "glyph": "arcticons/kvaesitso.svg"
     },
     {
+      "drawable": "landeed",
+      "label": "Landeed",
+      "glyph": "custom/landeed.svg"
+    },
+    {
+      "drawable": "lawnchair",
+      "label": "Lawnchair",
+      "glyph": "arcticons/lawnchair.svg"
+    },
+    {
+      "drawable": "lemonade",
+      "label": "Lemonade",
+      "glyph": "arcticons/lemonade.svg"
+    },
+    {
       "drawable": "letterboxd",
       "label": "Letterboxd",
       "glyph": "arcticons/letterboxd.svg"
@@ -571,9 +791,24 @@
       "glyph": "custom/levis.svg"
     },
     {
+      "drawable": "lezhin_comics",
+      "label": "Lezhin Comics",
+      "glyph": "custom/lezhin_comics.svg"
+    },
+    {
       "drawable": "licious",
       "label": "Licious",
       "glyph": "custom/licious.svg"
+    },
+    {
+      "drawable": "lightbulb",
+      "label": "Tips",
+      "glyph": "arcticons/lightbulb.svg"
+    },
+    {
+      "drawable": "linex",
+      "label": "LineX",
+      "glyph": "arcticons/linex.svg"
     },
     {
       "drawable": "linkedin",
@@ -621,6 +856,11 @@
       "glyph": "arcticons/mcdonalds.svg"
     },
     {
+      "drawable": "meatigo",
+      "label": "Meatigo",
+      "glyph": "custom/meatigo.svg"
+    },
+    {
       "drawable": "medplus",
       "label": "MedPlus",
       "glyph": "arcticons/medplus.svg"
@@ -631,14 +871,54 @@
       "glyph": "arcticons/messages.svg"
     },
     {
+      "drawable": "microsoft_authenticator",
+      "label": "Authenticator",
+      "glyph": "arcticons/microsoft_authenticator.svg"
+    },
+    {
+      "drawable": "microsoft_company_portal",
+      "label": "Company Portal",
+      "glyph": "arcticons/microsoft_company_portal.svg"
+    },
+    {
+      "drawable": "microsoft_edge",
+      "label": "Edge",
+      "glyph": "arcticons/microsoft_edge.svg"
+    },
+    {
+      "drawable": "microsoft_excel",
+      "label": "Excel",
+      "glyph": "arcticons/microsoft_excel.svg"
+    },
+    {
+      "drawable": "microsoft_onedrive",
+      "label": "OneDrive",
+      "glyph": "arcticons/microsoft_onedrive.svg"
+    },
+    {
       "drawable": "microsoft_outlook",
       "label": "Outlook",
       "glyph": "arcticons/microsoft_outlook.svg"
     },
     {
+      "drawable": "microsoft_teams",
+      "label": "Teams",
+      "glyph": "arcticons/microsoft_teams.svg"
+    },
+    {
+      "drawable": "minimal_o_icon_pack",
+      "label": "Minimal O",
+      "glyph": "arcticons/minimal_o_icon_pack.svg"
+    },
+    {
       "drawable": "minimalist",
       "label": "Minimalist",
       "glyph": "custom/minimalist.svg"
+    },
+    {
+      "drawable": "minimalist_icon_pack",
+      "label": "Minimalist",
+      "glyph": "arcticons/minimalist_icon_pack.svg"
     },
     {
       "drawable": "mint",
@@ -649,6 +929,11 @@
       "drawable": "mobikwik",
       "label": "MobiKwik",
       "glyph": "arcticons/mobikwik.svg"
+    },
+    {
+      "drawable": "moon_reader_pro",
+      "label": "Moon+ Reader Pro",
+      "glyph": "arcticons/moon_reader_pro.svg"
     },
     {
       "drawable": "mparivahan",
@@ -706,6 +991,11 @@
       "glyph": "arcticons/netmeds.svg"
     },
     {
+      "drawable": "netshort",
+      "label": "NetShort",
+      "glyph": "custom/netshort.svg"
+    },
+    {
       "drawable": "nnnow",
       "label": "NNNow",
       "glyph": "custom/nnnow.svg"
@@ -714,6 +1004,11 @@
       "drawable": "notes",
       "label": "Samsung Notes",
       "glyph": "arcticons/notes.svg"
+    },
+    {
+      "drawable": "notion",
+      "label": "Notion",
+      "glyph": "arcticons/notion.svg"
     },
     {
       "drawable": "nps",
@@ -821,6 +1116,11 @@
       "glyph": "arcticons/priority_pass.svg"
     },
     {
+      "drawable": "proton_calendar",
+      "label": "Proton Calendar",
+      "glyph": "arcticons/proton_calendar.svg"
+    },
+    {
       "drawable": "proton_drive",
       "label": "Proton Drive",
       "glyph": "arcticons/proton_drive.svg"
@@ -844,6 +1144,11 @@
       "drawable": "pvr",
       "label": "PVR INOX",
       "glyph": "arcticons/pvr.svg"
+    },
+    {
+      "drawable": "qatar_airways",
+      "label": "Qatar Airways",
+      "glyph": "arcticons/qatar_airways.svg"
     },
     {
       "drawable": "railone",
@@ -871,6 +1176,16 @@
       "glyph": "custom/revv.svg"
     },
     {
+      "drawable": "roadtrippers",
+      "label": "Roadtrippers",
+      "glyph": "custom/roadtrippers.svg"
+    },
+    {
+      "drawable": "sams_club",
+      "label": "Sam’s Club",
+      "glyph": "arcticons/sams_club.svg"
+    },
+    {
       "drawable": "samsung_browser",
       "label": "Samsung Internet",
       "glyph": "arcticons/samsung_browser.svg"
@@ -881,14 +1196,49 @@
       "glyph": "arcticons/samsung_camera.svg"
     },
     {
+      "drawable": "samsung_cloud",
+      "label": "Cloud",
+      "glyph": "arcticons/samsung_cloud.svg"
+    },
+    {
       "drawable": "samsung_contacts",
       "label": "Contacts",
       "glyph": "arcticons/samsung_contacts.svg"
     },
     {
+      "drawable": "samsung_free",
+      "label": "News",
+      "glyph": "arcticons/samsung_free.svg"
+    },
+    {
       "drawable": "samsung_gallery",
       "label": "Gallery",
       "glyph": "arcticons/samsung_gallery.svg"
+    },
+    {
+      "drawable": "samsung_health",
+      "label": "Health",
+      "glyph": "arcticons/samsung_health.svg"
+    },
+    {
+      "drawable": "samsung_members",
+      "label": "Members",
+      "glyph": "arcticons/samsung_members.svg"
+    },
+    {
+      "drawable": "samsung_shop",
+      "label": "Samsung Shop",
+      "glyph": "arcticons/samsung_shop.svg"
+    },
+    {
+      "drawable": "samsung_smart_switch",
+      "label": "Smart Switch",
+      "glyph": "arcticons/samsung_smart_switch.svg"
+    },
+    {
+      "drawable": "samsung_tv_plus",
+      "label": "TV",
+      "glyph": "arcticons/samsung_tv_plus.svg"
     },
     {
       "drawable": "samsungpaymini",
@@ -921,9 +1271,19 @@
       "glyph": "arcticons/settings.svg"
     },
     {
+      "drawable": "shazam",
+      "label": "Shazam",
+      "glyph": "arcticons/shazam.svg"
+    },
+    {
       "drawable": "shein",
       "label": "SHEIN",
       "glyph": "arcticons/shein.svg"
+    },
+    {
+      "drawable": "shield",
+      "label": "Hotspot Shield VPN",
+      "glyph": "arcticons/shield.svg"
     },
     {
       "drawable": "shop",
@@ -931,9 +1291,24 @@
       "glyph": "arcticons/shop.svg"
     },
     {
+      "drawable": "shop_samsung",
+      "label": "Shop Samsung",
+      "glyph": "arcticons/shop_samsung.svg"
+    },
+    {
       "drawable": "simpli_namdharis",
       "label": "Simpli Namdhari's",
       "glyph": "custom/simpli_namdharis.svg"
+    },
+    {
+      "drawable": "simplicon",
+      "label": "Simplicon",
+      "glyph": "arcticons/simplicon.svg"
+    },
+    {
+      "drawable": "smartthings",
+      "label": "SmartThings",
+      "glyph": "arcticons/smartthings.svg"
     },
     {
       "drawable": "smoke_free",
@@ -944,6 +1319,16 @@
       "drawable": "sony_liv",
       "label": "Sony LIV",
       "glyph": "arcticons/sony_liv.svg"
+    },
+    {
+      "drawable": "sound_assistant",
+      "label": "Sound Assistant",
+      "glyph": "arcticons/sound_assistant.svg"
+    },
+    {
+      "drawable": "soundcore",
+      "label": "Anker soundcore",
+      "glyph": "arcticons/soundcore.svg"
     },
     {
       "drawable": "speedtest",
@@ -966,9 +1351,29 @@
       "glyph": "arcticons/starbucks.svg"
     },
     {
+      "drawable": "stead",
+      "label": "Stead",
+      "glyph": "custom/stead.svg"
+    },
+    {
+      "drawable": "substack_reader",
+      "label": "Substack",
+      "glyph": "arcticons/substack_reader.svg"
+    },
+    {
       "drawable": "supermoney",
       "label": "super.money",
       "glyph": "arcticons/supermoney.svg"
+    },
+    {
+      "drawable": "surfshark",
+      "label": "Surfshark",
+      "glyph": "arcticons/surfshark.svg"
+    },
+    {
+      "drawable": "swiftkey",
+      "label": "Microsoft SwiftKey Keyboard",
+      "glyph": "arcticons/swiftkey.svg"
     },
     {
       "drawable": "swiggy",
@@ -1021,6 +1426,11 @@
       "glyph": "custom/the_ken.svg"
     },
     {
+      "drawable": "the_new_yorker",
+      "label": "The New Yorker",
+      "glyph": "custom/the_new_yorker.svg"
+    },
+    {
       "drawable": "the_souled_store",
       "label": "The Souled Store",
       "glyph": "arcticons/the_souled_store.svg"
@@ -1041,9 +1451,19 @@
       "glyph": "arcticons/tiktok.svg"
     },
     {
+      "drawable": "times_prime",
+      "label": "Times Prime",
+      "glyph": "arcticons/times_prime.svg"
+    },
+    {
       "drawable": "toing",
       "label": "toing",
       "glyph": "arcticons/toing.svg"
+    },
+    {
+      "drawable": "toonsutra",
+      "label": "Toonsutra",
+      "glyph": "custom/toonsutra.svg"
     },
     {
       "drawable": "truecaller",
@@ -1056,6 +1476,11 @@
       "glyph": "arcticons/uber.svg"
     },
     {
+      "drawable": "udemy",
+      "label": "Udemy",
+      "glyph": "arcticons/udemy.svg"
+    },
+    {
       "drawable": "ultrahuman",
       "label": "Ultrahuman",
       "glyph": "arcticons/ultrahuman.svg"
@@ -1066,9 +1491,19 @@
       "glyph": "arcticons/umang.svg"
     },
     {
+      "drawable": "urban_company",
+      "label": "Urban Company",
+      "glyph": "arcticons/urban_company.svg"
+    },
+    {
       "drawable": "us_mobile",
       "label": "US Mobile",
       "glyph": "arcticons/us_mobile.svg"
+    },
+    {
+      "drawable": "verticons_icon_pack",
+      "label": "Verticons Icon pack",
+      "glyph": "arcticons/verticons_icon_pack.svg"
     },
     {
       "drawable": "vi",
@@ -1076,9 +1511,24 @@
       "glyph": "arcticons/vi.svg"
     },
     {
+      "drawable": "vi_movies_and_tv",
+      "label": "Vi Movies and TV",
+      "glyph": "arcticons/vi_movies_and_tv.svg"
+    },
+    {
+      "drawable": "visible",
+      "label": "Visible",
+      "glyph": "arcticons/visible.svg"
+    },
+    {
       "drawable": "washington_post",
       "label": "The Washington Post",
       "glyph": "arcticons/letter_uppercase_square_w.svg"
+    },
+    {
+      "drawable": "weather",
+      "label": "Weather",
+      "glyph": "arcticons/weather.svg"
     },
     {
       "drawable": "weathercan",
@@ -1099,6 +1549,11 @@
       "drawable": "wikipedia",
       "label": "Wikipedia",
       "glyph": "arcticons/wikipedia.svg"
+    },
+    {
+      "drawable": "workout",
+      "label": "Workouts",
+      "glyph": "arcticons/workout.svg"
     },
     {
       "drawable": "wow_eats",
@@ -1149,6 +1604,11 @@
       "drawable": "zomato",
       "label": "Zomato",
       "glyph": "arcticons/zomato.svg"
+    },
+    {
+      "drawable": "zoom",
+      "label": "Zoom",
+      "glyph": "arcticons/zoom.svg"
     }
   ],
   "components": [
@@ -1159,6 +1619,14 @@
     {
       "component": "ComponentInfo{air.app.scb.breeze.android.main.in.prod/com.sc.next.android.MainActivity}",
       "drawable": "sc_mobile"
+    },
+    {
+      "component": "ComponentInfo{app.buybackart.com/app.buybackart.com.MainActivity}",
+      "drawable": "buybackart"
+    },
+    {
+      "component": "ComponentInfo{app.lawnchair.play/app.lawnchair.LawnchairLauncher}",
+      "drawable": "lawnchair"
     },
     {
       "component": "ComponentInfo{cards.scapia.android/cards.scapia.cards.MainActivity}",
@@ -1217,6 +1685,10 @@
       "drawable": "proton_vpn"
     },
     {
+      "component": "ComponentInfo{co.imprint.consumer/co.imprint.consumer.view.splash.SplashActivity}",
+      "drawable": "imprint"
+    },
+    {
       "component": "ComponentInfo{com.accor.appli.hybrid/com.accor.app.splashscreen.view.SplashScreenActivity}",
       "drawable": "all_accor"
     },
@@ -1229,8 +1701,16 @@
       "drawable": "acko"
     },
     {
+      "component": "ComponentInfo{com.adityabirlahealth.insurance/com.adityabirlahealth.insurance.Login.SplashActivity}",
+      "drawable": "activ_health"
+    },
+    {
       "component": "ComponentInfo{com.adpmobile.android/com.adpmobile.android.auth.ui.AuthAppActivity}",
       "drawable": "adpmobile"
+    },
+    {
+      "component": "ComponentInfo{com.airindiaexpress.AIX/com.airindiaexpress.AIX.view.activity.LandingPageActivity}",
+      "drawable": "air_india_express"
     },
     {
       "component": "ComponentInfo{com.alltrails.alltrails/com.alltrails.alltrails.StartActivity}",
@@ -1705,6 +2185,30 @@
       "drawable": "apollo_247"
     },
     {
+      "component": "ComponentInfo{com.apple.android.music/.onboarding.activities.SplashActivity}",
+      "drawable": "applemusic"
+    },
+    {
+      "component": "ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}",
+      "drawable": "applemusic"
+    },
+    {
+      "component": "ComponentInfo{com.apple.android.music/com.google.android.apps.youtube.music.activities.MusicActivity}",
+      "drawable": "applemusic"
+    },
+    {
+      "component": "ComponentInfo{com.apple.android.music/com.google.android.archive.ReactivateActivity}",
+      "drawable": "applemusic"
+    },
+    {
+      "component": "ComponentInfo{com.apple.android.music/com.piyush.music.activities.main.MainActivity}",
+      "drawable": "applemusic"
+    },
+    {
+      "component": "ComponentInfo{com.apple.atve.androidtv.appletv/com.apple.android.tv.MainActivity}",
+      "drawable": "apple_tv"
+    },
+    {
       "component": "ComponentInfo{com.application.zomato.district/com.application.zomato.gooutandroid.MainActivity}",
       "drawable": "district"
     },
@@ -1751,6 +2255,14 @@
     {
       "component": "ComponentInfo{com.axis.mobile/com.axis.mobile.MainActivity}",
       "drawable": "axismobile"
+    },
+    {
+      "component": "ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}",
+      "drawable": "microsoft_authenticator"
+    },
+    {
+      "component": "ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}",
+      "drawable": "microsoft_authenticator"
     },
     {
       "component": "ComponentInfo{com.barclaycardus/com.barclaycardus.login.SplashActivity}",
@@ -1881,6 +2393,10 @@
       "drawable": "citi_mobile"
     },
     {
+      "component": "ComponentInfo{com.condenast.thenewyorker.android/com.condenast.thenewyorker.topstories.view.TopStoriesActivity}",
+      "drawable": "the_new_yorker"
+    },
+    {
       "component": "ComponentInfo{com.confirmtkt.lite/com.confirmtkt.lite.LaunchActivity}",
       "drawable": "confirmtkt"
     },
@@ -1979,6 +2495,10 @@
     {
       "component": "ComponentInfo{com.delhiveryConsigneeApp/com.delhiveryConsigneeApp.MainActivity}",
       "drawable": "delhivery"
+    },
+    {
+      "component": "ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}",
+      "drawable": "flud"
     },
     {
       "component": "ComponentInfo{com.dexcom.g7/com.dexcom.phoenix.ui.SplashActivity}",
@@ -2449,6 +2969,22 @@
       "drawable": "facebook"
     },
     {
+      "component": "ComponentInfo{com.facebook.orca/.auth.StartScreenActivity}",
+      "drawable": "facebook_messenger"
+    },
+    {
+      "component": "ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}",
+      "drawable": "facebook_messenger"
+    },
+    {
+      "component": "ComponentInfo{com.facebook.orca/com.facebook.orca.MainActivity}",
+      "drawable": "facebook_messenger"
+    },
+    {
+      "component": "ComponentInfo{com.firstclub.app/com.firstclub.app.MainActivity}",
+      "drawable": "firstclub"
+    },
+    {
       "component": "ComponentInfo{com.fitbit.FitbitMobile/com.fitbit.FirstActivity}",
       "drawable": "google_health"
     },
@@ -2537,6 +3073,26 @@
       "drawable": "flipkart"
     },
     {
+      "component": "ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}",
+      "drawable": "moon_reader_pro"
+    },
+    {
+      "component": "ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityTxt}",
+      "drawable": "moon_reader_pro"
+    },
+    {
+      "component": "ComponentInfo{com.flyersoft.moonreaderp/com.google.android.archive.ReactivateActivity}",
+      "drawable": "moon_reader_pro"
+    },
+    {
+      "component": "ComponentInfo{com.flyersoft.moonreaderp/com.unity.android.sdk.PlayerLauncher}",
+      "drawable": "moon_reader_pro"
+    },
+    {
+      "component": "ComponentInfo{com.flyersoft.moonreaderp/com.unity.android.sdk.UnityLauncher}",
+      "drawable": "moon_reader_pro"
+    },
+    {
       "component": "ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.default}",
       "drawable": "nykaaman"
     },
@@ -2605,8 +3161,120 @@
       "drawable": "github"
     },
     {
+      "component": "ComponentInfo{com.gokhana.customer/com.gokhana.customer.MainActivity}",
+      "drawable": "gokhana"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}",
+      "drawable": "google_find_device"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.LicenseActivity}",
+      "drawable": "google_find_device"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}",
+      "drawable": "google_find_device"
+    },
+    {
       "component": "ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}",
       "drawable": "google_gemini"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}",
+      "drawable": "google_play_books"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.HomeActivity}",
+      "drawable": "google_play_books"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.books/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_play_books"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.books/tgo.ngo.mockgps.ui.LauncherActivity}",
+      "drawable": "google_play_books"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}",
+      "drawable": "google_home"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_home"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.DocumentOpenerActivityProxy}",
+      "drawable": "google_docs"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}",
+      "drawable": "google_docs"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.editors.kix.KixDocumentCreatorActivity}",
+      "drawable": "google_docs"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.editors.kix.KixEditorActivity}",
+      "drawable": "google_docs"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_docs"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.DocumentOpenerActivityProxy}",
+      "drawable": "google_sheets"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}",
+      "drawable": "google_sheets"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.editors.kix.KixDocumentCreatorActivity}",
+      "drawable": "google_sheets"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.editors.kix.KixEditorActivity}",
+      "drawable": "google_sheets"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_sheets"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.HomeScreenActivity}",
+      "drawable": "google_drive"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.MainProxyActivity}",
+      "drawable": "google_drive"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}",
+      "drawable": "google_drive"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.docs/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_drive"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}",
+      "drawable": "google_fit"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.fitness/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_fit"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}",
+      "drawable": "google_voice"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.googlevoice/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_voice"
     },
     {
       "component": "ComponentInfo{com.google.android.apps.maps/com.android.internal.app.ResolverActivity}",
@@ -2649,6 +3317,26 @@
       "drawable": "google_maps"
     },
     {
+      "component": "ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.dittosatellite.impl.DittoWebActivity}",
+      "drawable": "google_messages"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity}",
+      "drawable": "google_messages"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}",
+      "drawable": "google_messages"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.messaging/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_messages"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.messaging/com.kyant.vanilla.MainActivity}",
+      "drawable": "google_messages"
+    },
+    {
       "component": "ComponentInfo{com.google.android.apps.nbu.paisa.user/com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity}",
       "drawable": "google_pay"
     },
@@ -2667,6 +3355,54 @@
     {
       "component": "ComponentInfo{com.google.android.apps.photos/com.google.android.archive.ReactivateActivity}",
       "drawable": "google_photos"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}",
+      "drawable": "google_one"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_one"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}",
+      "drawable": "google_meet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivitySecondLauncher}",
+      "drawable": "google_meet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.tachyon/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_meet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.entrypoint.WalletRootActivity}",
+      "drawable": "google_wallet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.GooglePayActivity}",
+      "drawable": "google_wallet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.WalletRootActivity}",
+      "drawable": "google_wallet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}",
+      "drawable": "google_wallet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.growth.migration.OldLauncherActivity}",
+      "drawable": "google_wallet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.home.HomeActivity}",
+      "drawable": "google_wallet"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}",
+      "drawable": "google_wallet"
     },
     {
       "component": "ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}",
@@ -2757,6 +3493,66 @@
       "drawable": "google"
     },
     {
+      "component": "ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}",
+      "drawable": "google_keyboard"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}",
+      "drawable": "google_keyboard"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.inputmethod.latin/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_keyboard"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}",
+      "drawable": "google_keyboard"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.archive.ReactivateActivity}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.videos.activity.HomeActivity}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.videos.activity.LauncherActivity}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPointGtv}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPointGtv/com.google.android.videos.GoogleTvEntryPoint}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.froyo.VideosActivity}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.phone.VideosActivity}",
+      "drawable": "google_tv"
+    },
+    {
+      "component": "ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.tablet.VideosActivity}",
+      "drawable": "google_tv"
+    },
+    {
       "component": "ComponentInfo{com.google.android.youtube/.app.honeycomb.Shell$HomeActivity}",
       "drawable": "youtube"
     },
@@ -2803,6 +3599,10 @@
     {
       "component": "ComponentInfo{com.graymatrix.did/com.zee5.splash.SplashActivity}",
       "drawable": "zee5"
+    },
+    {
+      "component": "ComponentInfo{com.greytip.ghress/com.greytip.ghress.MainActivity}",
+      "drawable": "greythr"
     },
     {
       "component": "ComponentInfo{com.grofers.customerapp/com.google.android.archive.ReactivateActivity}",
@@ -2913,6 +3713,22 @@
       "drawable": "hm"
     },
     {
+      "component": "ComponentInfo{com.hp.printercontrol/com.google.android.archive.ReactivateActivity}",
+      "drawable": "hpprinteraio"
+    },
+    {
+      "component": "ComponentInfo{com.hp.printercontrol/com.hp.printercontrol.base.PrinterControlActivity}",
+      "drawable": "hpprinteraio"
+    },
+    {
+      "component": "ComponentInfo{com.hp.printercontrol/com.hp.printercontrol.base.UiDrawerBaseAct}",
+      "drawable": "hpprinteraio"
+    },
+    {
+      "component": "ComponentInfo{com.hp.printercontrol/com.hp.printercontrol.hpx.PrinterControlWrapperActivity}",
+      "drawable": "hpprinteraio"
+    },
+    {
       "component": "ComponentInfo{com.htmedia.mint/com.htmedia.mint.DefaultAlias}",
       "drawable": "mint"
     },
@@ -2921,8 +3737,16 @@
       "drawable": "mint"
     },
     {
+      "component": "ComponentInfo{com.Hyatt.hyt/com.hyt.auth.activities.SplashActivity}",
+      "drawable": "hyatt"
+    },
+    {
       "component": "ComponentInfo{com.idfcfirstbank.optimus/com.idfcfirstbank.optimus.MainActivity}",
       "drawable": "idfc_first_bank"
+    },
+    {
+      "component": "ComponentInfo{com.il.mcdelivery/com.il.mcdelivery.MainActivity}",
+      "drawable": "mcdelivery"
     },
     {
       "component": "ComponentInfo{com.indusind.indie/com.indusind.indie.launcher_c29ee5c28889ac705b354b3d105de8a7b80866483f0b36e1e78e27b22462217b}",
@@ -3061,6 +3885,62 @@
       "drawable": "myjio"
     },
     {
+      "component": "ComponentInfo{com.jndapp.iconpack.minimalist/com.jndapp.iconpack.minimalist.activities.SplashActivity}",
+      "drawable": "minimalist_icon_pack"
+    },
+    {
+      "component": "ComponentInfo{com.jndapp.iconpack.minimalist/com.jndapp.iconpack.minimalist.MainActivity}",
+      "drawable": "minimalist_icon_pack"
+    },
+    {
+      "component": "ComponentInfo{com.jndapp.iconpack.simplicon/com.jndapp.iconpack.simplicon.MainActivity}",
+      "drawable": "simplicon"
+    },
+    {
+      "component": "ComponentInfo{com.jndapp.line.x.iconpack/com.jndapp.line.x.iconpack.MainActivity}",
+      "drawable": "linex"
+    },
+    {
+      "component": "ComponentInfo{com.jndapp.minimal.o.iconpack/com.jndapp.minimal.o.iconpack.activities.SplashActivity}",
+      "drawable": "minimal_o_icon_pack"
+    },
+    {
+      "component": "ComponentInfo{com.jndapp.minimal.o.iconpack/com.jndapp.minimal.o.iconpack.MainActivity}",
+      "drawable": "minimal_o_icon_pack"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jcpjiomart.MainActivity}",
+      "drawable": "jiomart"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jcpjiomart.MainActivityAlias1}",
+      "drawable": "jiomart"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jpl.jiomart.dashboard.activities.SplashActivity}",
+      "drawable": "jiomart"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jpl.jiomart.dashboard.activities.SplashActivityAlias1}",
+      "drawable": "jiomart"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jpl.jiomart.dashboard.activities.SplashScreenActivityAlias1}",
+      "drawable": "jiomart"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jpl.jiomart.MainActivity}",
+      "drawable": "jiomart"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1}",
+      "drawable": "jiomart"
+    },
+    {
+      "component": "ComponentInfo{com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashScreenActivityAlias1}",
+      "drawable": "jiomart"
+    },
+    {
       "component": "ComponentInfo{com.jubl.popeyes/com.hongs.android.feature_splash.presentation.SplashActivity}",
       "drawable": "popeyes"
     },
@@ -3079,6 +3959,10 @@
     {
       "component": "ComponentInfo{com.kayak.android/com.kayak.android.Splash}",
       "drawable": "kayak"
+    },
+    {
+      "component": "ComponentInfo{com.keka.xhr/com.keka.xhr.MainActivity}",
+      "drawable": "keka"
     },
     {
       "component": "ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}",
@@ -3103,6 +3987,14 @@
     {
       "component": "ComponentInfo{com.kobobooks.android/com.kobobooks.android.SplashActivity}",
       "drawable": "kobo_books"
+    },
+    {
+      "component": "ComponentInfo{com.landeed/com.landeed.MainActivity}",
+      "drawable": "landeed"
+    },
+    {
+      "component": "ComponentInfo{com.lemonadeinc.lemonade/com.lemonadeinc.lemonade.ui.core.MainActivity}",
+      "drawable": "lemonade"
     },
     {
       "component": "ComponentInfo{com.letterboxd.letterboxd/com.google.android.archive.ReactivateActivity}",
@@ -3145,7 +4037,15 @@
       "drawable": "letterboxd"
     },
     {
+      "component": "ComponentInfo{com.lezhin.comics/com.lezhin.comics.activity.HomeActivity}",
+      "drawable": "lezhin_comics"
+    },
+    {
       "component": "ComponentInfo{com.licious/com.licious.intro.activity.SplashActivity}",
+      "drawable": "licious"
+    },
+    {
+      "component": "ComponentInfo{com.licious/com.licious.onboarding.presentation.splash.SplashActivity}",
       "drawable": "licious"
     },
     {
@@ -3241,6 +4141,10 @@
       "drawable": "linkedin"
     },
     {
+      "component": "ComponentInfo{com.m.qr/com.m.qr.home.onboarding.ui.MainActivityLauncher}",
+      "drawable": "qatar_airways"
+    },
+    {
       "component": "ComponentInfo{com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity}",
       "drawable": "makemytrip"
     },
@@ -3325,6 +4229,50 @@
       "drawable": "medplus"
     },
     {
+      "component": "ComponentInfo{com.microsoft.emmx/com.google.android.apps.chrome.Main}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main1}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main2}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main3}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main4}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main5}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main6}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main7}",
+      "drawable": "microsoft_edge"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}",
+      "drawable": "microsoft_excel"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity}",
+      "drawable": "microsoft_excel"
+    },
+    {
       "component": "ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.activities.HubActivity}",
       "drawable": "microsoft_outlook"
     },
@@ -3347,6 +4295,26 @@
     {
       "component": "ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.WearActivity}",
       "drawable": "microsoft_outlook"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}",
+      "drawable": "microsoft_onedrive"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.photos.PhotosLauncherActivity}",
+      "drawable": "microsoft_onedrive"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.teams/com.google.android.archive.ReactivateActivity}",
+      "drawable": "microsoft_teams"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}",
+      "drawable": "microsoft_teams"
+    },
+    {
+      "component": "ComponentInfo{com.microsoft.windowsintune.companyportal/com.microsoft.windowsintune.companyportal.views.SplashActivity}",
+      "drawable": "microsoft_company_portal"
     },
     {
       "component": "ComponentInfo{com.mobikwik_new/com.mobikwik_new.MobikwikMain}",
@@ -3517,6 +4485,10 @@
       "drawable": "netmeds"
     },
     {
+      "component": "ComponentInfo{com.netshort.abroad/com.netshort.abroad.ui.login.SplashActivity}",
+      "drawable": "netshort"
+    },
+    {
       "component": "ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.genesys.loginsignup.activities.LoginActivity}",
       "drawable": "groww"
     },
@@ -3537,6 +4509,10 @@
       "drawable": "mparivahan"
     },
     {
+      "component": "ComponentInfo{com.nnnow.arvind/com.omuni.b2b.splash.SplashActivity}",
+      "drawable": "nnnow"
+    },
+    {
       "component": "ComponentInfo{com.nytimes.android/com.nytimes.android.activity.MainActivity_}",
       "drawable": "nytimes"
     },
@@ -3551,6 +4527,26 @@
     {
       "component": "ComponentInfo{com.nytimes.cooking/com.nytimes.cooking.SplashScreenActivity}",
       "drawable": "nyt_cooking"
+    },
+    {
+      "component": "ComponentInfo{com.nytimes.crossword/com.nytimes.crosswordlib.activity.MainActivity}",
+      "drawable": "crossword"
+    },
+    {
+      "component": "ComponentInfo{com.nytimes.crossword/com.nytimes.games.core.activity.MainActivity}",
+      "drawable": "crossword"
+    },
+    {
+      "component": "ComponentInfo{com.oceanwing.soundcore/com.google.android.archive.ReactivateActivity}",
+      "drawable": "soundcore"
+    },
+    {
+      "component": "ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.SelectCategoryNewActivity}",
+      "drawable": "soundcore"
+    },
+    {
+      "component": "ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}",
+      "drawable": "soundcore"
     },
     {
       "component": "ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.NewSplashActivity}",
@@ -3583,6 +4579,10 @@
     {
       "component": "ComponentInfo{com.ouraring.oura/com.ouraring.oura.LauncherActivity}",
       "drawable": "oura"
+    },
+    {
+      "component": "ComponentInfo{com.ownly.customer/com.ownly.customer.MainActivityDefaultIcon}",
+      "drawable": "ownly"
     },
     {
       "component": "ComponentInfo{com.paypal.android.p2pmobile/com.google.android.archive.ReactivateActivity}",
@@ -3821,6 +4821,14 @@
       "drawable": "cashify"
     },
     {
+      "component": "ComponentInfo{com.rfi.sams.android/com.rfi.sams.android.main.SplashActivity}",
+      "drawable": "sams_club"
+    },
+    {
+      "component": "ComponentInfo{com.rfi.sams.android/com.walmart.glass.integration.splash.SplashActivity}",
+      "drawable": "sams_club"
+    },
+    {
       "component": "ComponentInfo{com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity}",
       "drawable": "ajio"
     },
@@ -3841,8 +4849,20 @@
       "drawable": "shein"
     },
     {
+      "component": "ComponentInfo{com.roadtrippers/com.roadtrippers.features.other.MainActivity}",
+      "drawable": "roadtrippers"
+    },
+    {
       "component": "ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}",
       "drawable": "samsung_contacts"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.app.find/com.samsung.android.app.find.MainActivity}",
+      "drawable": "find"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.app.find/com.samsung.android.app.find.SplashActivity}",
+      "drawable": "find"
     },
     {
       "component": "ComponentInfo{com.samsung.android.app.notes/.memolist.MemoListActivity}",
@@ -3851,6 +4871,22 @@
     {
       "component": "ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}",
       "drawable": "notes"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.app.sketchbook/com.samsung.android.app.sketchbook.application.DrawingActivity}",
+      "drawable": "creative_studio"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity}",
+      "drawable": "samsung_free"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.app.tips/com.samsung.android.app.tips.TipsLauncher}",
+      "drawable": "lightbulb"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity}",
+      "drawable": "lightbulb"
     },
     {
       "component": "ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}",
@@ -3873,6 +4909,34 @@
       "drawable": "phone"
     },
     {
+      "component": "ComponentInfo{com.samsung.android.game.gamehome/.app.MainActivity}",
+      "drawable": "gamelauncher"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}",
+      "drawable": "gamelauncher"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivityCN}",
+      "drawable": "gamelauncher"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.app.MainActivity}",
+      "drawable": "gamelauncher"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.MainActivity}",
+      "drawable": "good_lock"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity}",
+      "drawable": "good_lock"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.PluginListActivity}",
+      "drawable": "good_lock"
+    },
+    {
       "component": "ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}",
       "drawable": "messages"
     },
@@ -3885,12 +4949,88 @@
       "drawable": "messages"
     },
     {
+      "component": "ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}",
+      "drawable": "smartthings"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.launcher.finder}",
+      "drawable": "samsung_cloud"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.launcher}",
+      "drawable": "samsung_cloud"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.SplashActivity}",
+      "drawable": "samsung_cloud"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.bnr.ui.view.screen.backup.BackupE2EEActivity}",
+      "drawable": "samsung_cloud"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.bnr.ui.view.screen.restore.BackupDeviceListActivity}",
+      "drawable": "samsung_cloud"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.bnr.ui.view.screen.restore.RestoreE2EEActivity}",
+      "drawable": "samsung_cloud"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.bnr.ui.view.screen.setupwizard.SetupWizardProxyActivity}",
+      "drawable": "samsung_cloud"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.soundassistant/com.samsung.android.soundassistant.activities.MainActivity}",
+      "drawable": "sound_assistant"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}",
+      "drawable": "sound_assistant"
+    },
+    {
       "component": "ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.InitActivity}",
       "drawable": "samsungpaymini"
     },
     {
       "component": "ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}",
       "drawable": "samsungpaymini"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.tvplus/com.samsung.android.tvplus.MainActivity}",
+      "drawable": "samsung_tv_plus"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.app.LauncherActivity}",
+      "drawable": "samsung_members"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}",
+      "drawable": "samsung_members"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.MainActivity}",
+      "drawable": "samsung_members"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.ecomm.global.in/com.samsung.ecomm.global.in.SampleActivity}",
+      "drawable": "samsung_shop"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.ecomm.global.in/com.samsung.ecomm.global.shop_app.MainActivity}",
+      "drawable": "samsung_shop"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.ecomm.global.in/com.samsung.ecomm.MainActivity}",
+      "drawable": "samsung_shop"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.ecomm/com.samsung.ecomm.global.shop_app.MainActivity}",
+      "drawable": "shop_samsung"
+    },
+    {
+      "component": "ComponentInfo{com.samsung.ecomm/com.samsung.ecomm.MainActivity}",
+      "drawable": "shop_samsung"
     },
     {
       "component": "ComponentInfo{com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity}",
@@ -3911,6 +5051,10 @@
     {
       "component": "ComponentInfo{com.sbs.diet/com.sbs.diet.MainActivityAliasClassic}",
       "drawable": "macrofactor"
+    },
+    {
+      "component": "ComponentInfo{com.sbs.train/com.sbs.train.MainActivity}",
+      "drawable": "workout"
     },
     {
       "component": "ComponentInfo{com.sec.android.app.camera/.Camera}",
@@ -4013,6 +5157,50 @@
       "drawable": "samsung_browser"
     },
     {
+      "component": "ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeDashboardActivity}",
+      "drawable": "samsung_health"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}",
+      "drawable": "samsung_health"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.app.shealth/com.sec.android.app.shealth.RootActivity}",
+      "drawable": "samsung_health"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.app.shealth/com.sec.android.app.shealth.SplashScreenActivity}",
+      "drawable": "samsung_health"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}",
+      "drawable": "gravadordevoz"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}",
+      "drawable": "weather"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.daemonapp/com.sec.android.daemonapp.app.MainActivity}",
+      "drawable": "weather"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.easyMover/.ui.launch.LauncherActivity}",
+      "drawable": "samsung_smart_switch"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.DistributionActivity}",
+      "drawable": "samsung_smart_switch"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.DistributionNoIconActivity}",
+      "drawable": "samsung_smart_switch"
+    },
+    {
+      "component": "ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.ui.launch.LauncherActivity}",
+      "drawable": "samsung_smart_switch"
+    },
+    {
       "component": "ComponentInfo{com.sec.android.gallery3d/.app.GalleryOpaqueActivity}",
       "drawable": "samsung_gallery"
     },
@@ -4025,8 +5213,44 @@
       "drawable": "samsung_gallery"
     },
     {
+      "component": "ComponentInfo{com.sei.android/com.sei.android.controllers.activity.SplashActivity}",
+      "drawable": "_7eleven"
+    },
+    {
+      "component": "ComponentInfo{com.sei.android/com.sei.android.MainActivity}",
+      "drawable": "_7eleven"
+    },
+    {
       "component": "ComponentInfo{com.sephora/com.sephora.appmodules.splash.SplashActivity}",
       "drawable": "sephora"
+    },
+    {
+      "component": "ComponentInfo{com.shazam.android/com.google.android.archive.ReactivateActivity}",
+      "drawable": "shazam"
+    },
+    {
+      "component": "ComponentInfo{com.shazam.android/com.shazam.android.activities.MainActivity}",
+      "drawable": "shazam"
+    },
+    {
+      "component": "ComponentInfo{com.shazam.android/com.shazam.android.activities.Splash}",
+      "drawable": "shazam"
+    },
+    {
+      "component": "ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}",
+      "drawable": "shazam"
+    },
+    {
+      "component": "ComponentInfo{com.shazam.android/com.shazam.android.Home}",
+      "drawable": "shazam"
+    },
+    {
+      "component": "ComponentInfo{com.shazam.android/com.shazam.android.Splash}",
+      "drawable": "shazam"
+    },
+    {
+      "component": "ComponentInfo{com.shazam.android/vn.adflex.sdk.AdFlexSDKActivity}",
+      "drawable": "shazam"
     },
     {
       "component": "ComponentInfo{com.shopify.arrive/com.shopify.arrive.MainActivity}",
@@ -4071,6 +5295,10 @@
     {
       "component": "ComponentInfo{com.sonyliv/tv.accedo.via.android.app.splash.InitializationActivity}",
       "drawable": "sony_liv"
+    },
+    {
+      "component": "ComponentInfo{com.spaceman.verticonspro/com.spaceman.verticonspro.MainActivity}",
+      "drawable": "verticons_icon_pack"
     },
     {
       "component": "ComponentInfo{com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen_}",
@@ -4141,6 +5369,38 @@
       "drawable": "starbucks"
     },
     {
+      "component": "ComponentInfo{com.stead.android/com.stead.android.MainActivity}",
+      "drawable": "stead"
+    },
+    {
+      "component": "ComponentInfo{com.storymatrix.drama/com.game.killer.gamesActivity}",
+      "drawable": "dramabox"
+    },
+    {
+      "component": "ComponentInfo{com.storymatrix.drama/com.google.android.archive.ReactivateActivity}",
+      "drawable": "dramabox"
+    },
+    {
+      "component": "ComponentInfo{com.storymatrix.drama/com.releasedata.ReleaseDataActivity.SplashActivityKing}",
+      "drawable": "dramabox"
+    },
+    {
+      "component": "ComponentInfo{com.storymatrix.drama/com.storymatrix.drama.activity.MainActivity}",
+      "drawable": "dramabox"
+    },
+    {
+      "component": "ComponentInfo{com.storymatrix.drama/com.storymatrix.drama.activity.SplashActivity}",
+      "drawable": "dramabox"
+    },
+    {
+      "component": "ComponentInfo{com.substack.app/com.substack.app.ui.AppActivity}",
+      "drawable": "substack_reader"
+    },
+    {
+      "component": "ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.StartActivity}",
+      "drawable": "surfshark"
+    },
+    {
       "component": "ComponentInfo{com.tacobell.ordering/com.tacobell.android.MainActivity}",
       "drawable": "taco_bell"
     },
@@ -4175,6 +5435,38 @@
     {
       "component": "ComponentInfo{com.thesouledstore/com.thesouledstore.SplashActivity}",
       "drawable": "the_souled_store"
+    },
+    {
+      "component": "ComponentInfo{com.timesprime.timesprimeandroid/com.timesprime.timesprimeandroid.splash.SplashActivity}",
+      "drawable": "times_prime"
+    },
+    {
+      "component": "ComponentInfo{com.toonsutra.comicapp/com.toonsutra.comicapp.MainActivity}",
+      "drawable": "toonsutra"
+    },
+    {
+      "component": "ComponentInfo{com.touchtype.swiftkey/com.google.android.archive.ReactivateActivity}",
+      "drawable": "swiftkey"
+    },
+    {
+      "component": "ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity-Icon}",
+      "drawable": "swiftkey"
+    },
+    {
+      "component": "ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity}",
+      "drawable": "swiftkey"
+    },
+    {
+      "component": "ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}",
+      "drawable": "swiftkey"
+    },
+    {
+      "component": "ComponentInfo{com.touchtype.swiftkey/com.touchtype.swiftkey.Applanet_2}",
+      "drawable": "swiftkey"
+    },
+    {
+      "component": "ComponentInfo{com.touchtype.swiftkey/com.touchtype.swiftkey.main}",
+      "drawable": "swiftkey"
     },
     {
       "component": "ComponentInfo{com.truecaller/com.truecaller.messaging.MessagesActivity}",
@@ -4317,15 +5609,55 @@
       "drawable": "uber"
     },
     {
+      "component": "ComponentInfo{com.udemy.android/com.udemy.android.SplashActivity}",
+      "drawable": "udemy"
+    },
+    {
       "component": "ComponentInfo{com.ultrahuman.android/com.ultrahuman.android.splash.SplashActivity}",
       "drawable": "ultrahuman"
+    },
+    {
+      "component": "ComponentInfo{com.urbanclap.urbanclap/com.urbanclap.urbanclap.core.app_icon.NormalUser}",
+      "drawable": "urban_company"
+    },
+    {
+      "component": "ComponentInfo{com.urbanclap.urbanclap/com.urbanclap.urbanclap.core.app_icon.SubscribedUser}",
+      "drawable": "urban_company"
+    },
+    {
+      "component": "ComponentInfo{com.urbanclap.urbanclap/com.urbanclap.urbanclap.core.bottomnavigation.BottomNavigationBaseActivity}",
+      "drawable": "urban_company"
+    },
+    {
+      "component": "ComponentInfo{com.urbanpiper.meatigo/com.urbanpiper.meatigo.MainActivityDefault}",
+      "drawable": "meatigo"
     },
     {
       "component": "ComponentInfo{com.usmobile.dashboard/com.usmobile.dashboard.MainActivity}",
       "drawable": "us_mobile"
     },
     {
+      "component": "ComponentInfo{com.visiblemobile.flagship/com.google.android.archive.ReactivateActivity}",
+      "drawable": "visible"
+    },
+    {
+      "component": "ComponentInfo{com.visiblemobile.flagship/com.visiblemobile.flagship.splash.ui.SplashActivity}",
+      "drawable": "visible"
+    },
+    {
+      "component": "ComponentInfo{com.vodafone.vodafoneplay/com.myplex.vodafone.ui.activities.LoginActivity}",
+      "drawable": "vi_movies_and_tv"
+    },
+    {
+      "component": "ComponentInfo{com.vodafone.vodafoneplay/com.yupptv.ott.SplashScreenActivity}",
+      "drawable": "vi_movies_and_tv"
+    },
+    {
       "component": "ComponentInfo{com.washingtonpost.android/com.wapo.flagship.MainActivity}",
+      "drawable": "washington_post"
+    },
+    {
+      "component": "ComponentInfo{com.washingtonpost.android/com.wapo.flagship.wapomain.MainActivity}",
       "drawable": "washington_post"
     },
     {
@@ -5029,6 +6361,18 @@
       "drawable": "cultfit"
     },
     {
+      "component": "ComponentInfo{gov.dhs.cbp.pspd.gem/gov.dhs.cbp.pspd.gem.InitializationActivity}",
+      "drawable": "global_entry"
+    },
+    {
+      "component": "ComponentInfo{hotspotshield.android.vpn/com.anchorfree.hotspotshield.ui.activity.MainActivity}",
+      "drawable": "shield"
+    },
+    {
+      "component": "ComponentInfo{hotspotshield.android.vpn/com.anchorfree.hotspotshield.ui.HssActivity}",
+      "drawable": "shield"
+    },
+    {
       "component": "ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}",
       "drawable": "amazon_shopping"
     },
@@ -5067,6 +6411,10 @@
     {
       "component": "ComponentInfo{in.hsbc.hsbcindia/com.hsbc.mobilebanking.splash.SplashActivity}",
       "drawable": "hsbc"
+    },
+    {
+      "component": "ComponentInfo{in.jfs.jiofinance/in.jfs.jiofinance.presentation.activity.SplashActivity}",
+      "drawable": "jiofinance"
     },
     {
       "component": "ComponentInfo{in.juspay.nammayatri/com.mobility.movingtech.AppIconAlias_default}",
@@ -5257,6 +6605,10 @@
       "drawable": "jiohotstar"
     },
     {
+      "component": "ComponentInfo{in.swiggy.android.instamart/in.swiggy.android.HomeIcon}",
+      "drawable": "instamart"
+    },
+    {
       "component": "ComponentInfo{in.swiggy.android.toing/in.swiggy.android.HomeIcon}",
       "drawable": "toing"
     },
@@ -5305,8 +6657,24 @@
       "drawable": "third_wave_coffee"
     },
     {
+      "component": "ComponentInfo{jio.cloud.drive/com.rjil.cloud.tej.client.app.AppStartActivity}",
+      "drawable": "cloud"
+    },
+    {
+      "component": "ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}",
+      "drawable": "proton_calendar"
+    },
+    {
+      "component": "ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.MainActivity}",
+      "drawable": "proton_calendar"
+    },
+    {
       "component": "ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}",
       "drawable": "proton_drive"
+    },
+    {
+      "component": "ComponentInfo{mobi.stratus.hopr/mobi.stratus.pool.AppActivity}",
+      "drawable": "hopr"
     },
     {
       "component": "ComponentInfo{money.super.payments/com.supermoney.payments.MainActivity}",
@@ -5349,6 +6717,14 @@
       "drawable": "aarogya_setu"
     },
     {
+      "component": "ComponentInfo{notion.id/notion.id.MainActivity}",
+      "drawable": "notion"
+    },
+    {
+      "component": "ComponentInfo{notion.id/notion.local.id.MainActivity}",
+      "drawable": "notion"
+    },
+    {
       "component": "ComponentInfo{nps.nps/nps.nps.MainActivity}",
       "drawable": "nps"
     },
@@ -5365,6 +6741,14 @@
       "drawable": "breezyweather"
     },
     {
+      "component": "ComponentInfo{org.coursera.android/org.coursera.android.MainActivity}",
+      "drawable": "coursera"
+    },
+    {
+      "component": "ComponentInfo{org.coursera.android/org.coursera.android.splash.MainActivity}",
+      "drawable": "coursera"
+    },
+    {
       "component": "ComponentInfo{org.cris.aikyam/com.example.aikyam.MainActivity}",
       "drawable": "railone"
     },
@@ -5378,6 +6762,10 @@
     },
     {
       "component": "ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}",
+      "drawable": "fdroid"
+    },
+    {
+      "component": "ComponentInfo{org.fdroid.fdroid/org.fdroid.IconActivity}",
       "drawable": "fdroid"
     },
     {
@@ -5503,6 +6891,30 @@
     {
       "component": "ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}",
       "drawable": "proton_pass"
+    },
+    {
+      "component": "ComponentInfo{us.zoom.videomeetings/com.google.android.archive.ReactivateActivity}",
+      "drawable": "zoom"
+    },
+    {
+      "component": "ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}",
+      "drawable": "zoom"
+    },
+    {
+      "component": "ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MainActivity}",
+      "drawable": "delta_icon_pack"
+    },
+    {
+      "component": "ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MuzeiActivity}",
+      "drawable": "delta_icon_pack"
+    },
+    {
+      "component": "ComponentInfo{website.leifs.delta/website.leifs.delta.activities.SplashActivity}",
+      "drawable": "delta_icon_pack"
+    },
+    {
+      "component": "ComponentInfo{website.leifs.delta/website.leifs.delta.activities.StartActivity}",
+      "drawable": "delta_icon_pack"
     },
     {
       "component": "ComponentInfo{wsj.reader_sp/com.dowjones.android.IssueActivity}",

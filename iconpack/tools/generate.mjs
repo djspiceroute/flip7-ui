@@ -192,7 +192,8 @@ function readGlyph(file) {
     const out = [];
     for (const node of nodes) {
       const tag = tagOf(node);
-      if (SKIP.has(tag)) continue;
+      // Namespaced tags are editor metadata (sodipodi:namedview, inkscape:*).
+      if (SKIP.has(tag) || tag.includes(':')) continue;
       const attrs = node[':@'] ?? {};
       const style = resolveStyle(attrs, inherited, rules);
       let item;
