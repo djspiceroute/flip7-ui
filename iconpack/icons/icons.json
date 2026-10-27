@@ -398,7 +398,7 @@
     {
       "drawable": "google_health",
       "label": "Google Health",
-      "glyph": "custom/google_health.svg"
+      "glyph": "arcticons/google_health.svg"
     },
     {
       "drawable": "google_mail",
@@ -783,7 +783,7 @@
     {
       "drawable": "paytm_money",
       "label": "Paytm Money",
-      "glyph": "arcticons/paytm.svg"
+      "glyph": "custom/paytm_money.svg"
     },
     {
       "drawable": "pharmeasy",
@@ -1051,11 +1051,6 @@
       "glyph": "custom/truecaller.svg"
     },
     {
-      "drawable": "twitter",
-      "label": "X",
-      "glyph": "arcticons/twitter.svg"
-    },
-    {
       "drawable": "uber",
       "label": "Uber",
       "glyph": "arcticons/uber.svg"
@@ -1114,6 +1109,11 @@
       "drawable": "wsj",
       "label": "The Wall Street Journal",
       "glyph": "arcticons/wsj.svg"
+    },
+    {
+      "drawable": "x_twitter",
+      "label": "X",
+      "glyph": "arcticons/x_twitter.svg"
     },
     {
       "drawable": "yono_sbi",
@@ -4202,103 +4202,103 @@
     },
     {
       "component": "ComponentInfo{com.twitter.android/app.revanced.extension.twitter.appicon26}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.example.nm.TwitterLauncherMainActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.google.android.archive.ReactivateActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.android.LoginActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.android.MainActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.android.stub.MainActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.applib.StartActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon10}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon11}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon12}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon13}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon14}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon2}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon25}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon3}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon4}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon5}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon6}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon7}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon8}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.seasonal_icon20}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.x.android.main.MainActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.x.appicon.icon10}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.twitter.android/com.yrwl.admanager.bytedance.SplashActivity}",
-      "drawable": "twitter"
+      "drawable": "x_twitter"
     },
     {
       "component": "ComponentInfo{com.ubercab/com.google.android.archive.ReactivateActivity}",

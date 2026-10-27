@@ -12,11 +12,15 @@
             android:strokeWidth="1.6"
             android:strokeLineCap="round"
             android:strokeLineJoin="round" />
-        <path
-            android:pathData="M 16.5 32.5 L 16.5 15.5 L 31.5 32.5 L 31.5 15.5"
-            android:strokeColor="#D8AE55"
-            android:strokeWidth="1.6"
-            android:strokeLineCap="round"
-            android:strokeLineJoin="round" />
+        <group android:translateX="-1.3" android:translateY="5">
+            <group>
+                <path
+                    android:pathData="m 14.585 32.754 c 3.67 -9.069 7.968 -18.138 11.962 -27.207 -0.169 8.919 -1.116 17.837 -2.09 26.755 3.268 -9.267 7.666 -19.151 12.931 -27.802"
+                    android:strokeColor="#D8AE55"
+                    android:strokeWidth="1.6"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round" />
+            </group>
+        </group>
     </group>
 </vector>

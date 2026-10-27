@@ -7,13 +7,13 @@
     android:viewportHeight="108">
     <group android:translateX="21.6" android:translateY="21.6" android:scaleX="1.35" android:scaleY="1.35">
         <path
-            android:pathData="M 2.5 24 A 21.5 21.5 0 1 0 45.5 24 A 21.5 21.5 0 1 0 2.5 24 Z"
+            android:pathData="M 32.053 7.151 c -3.19 0 -6.052 1.373 -8.053 3.55 0 0 -4.883 3.046 -8.651 8.597 1.799 -4.612 4.361 -8.163 6.363 -10.483 -1.675 -1.047 -3.644 -1.665 -5.766 -1.665 -6.046 0 -10.947 4.901 -10.947 10.947 0 5.32 6.111 12.198 11.225 17.037 0.757 0.716 1.973 0.556 2.524 -0.328 3.141 -5.041 7.629 -11.003 11.238 -14.406 -4.744 7.116 -7.791 14.143 -9.48 18.662 0.547 0.442 1.05 0.839 1.493 1.182 0.59 0.457 1.22 0.605 2 0.605 h 0.001 c 0.78 0 1.411 -0.148 2 -0.605 4.88 -3.782 16.999 -13.994 16.999 -22.147 0 -6.046 -4.901 -10.947 -10.947 -10.947 Z"
             android:strokeColor="#036C49"
             android:strokeWidth="1.6"
             android:strokeLineCap="round"
             android:strokeLineJoin="round" />
         <path
-            android:pathData="M 24 35.5 s -12 -7 -12 -15.5 a 6.5 6.5 0 0 1 12 -3.5 6.5 6.5 0 0 1 12 3.5 C 36 28.5 24 35.5 24 35.5 Z"
+            android:pathData="M 29.986 20.4 c 3.828 -3.667 6.285 -6.117 12.432 -5.833"
             android:strokeColor="#036C49"
             android:strokeWidth="1.6"
             android:strokeLineCap="round"

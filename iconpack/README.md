@@ -63,5 +63,5 @@ The tile and line colors for each finish are in `FINISHES` at the top of `tools/
 
 - Most line drawings, and the component mappings, come from [Arcticons](https://github.com/Arcticons-Team/Arcticons) by the Arcticons team, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They have been recolored, rescaled and placed on tiles. The drawings in this pack are shared under the same licence; see [icons/LICENSE.md](icons/LICENSE.md).
 - A few component mappings (Scapia, Licious, HealthKart, Barclays US, The Washington Post) come from the [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) and [Delta](https://github.com/Delta-Icons/android) appfilters.
-- The Truecaller handset and Air India Express plane in `icons/custom/` are based on [Lucide](https://lucide.dev) icons (ISC licence); the Scapia suitcase is the [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) drawing (Apache 2.0).
+- The Truecaller handset and Air India Express plane in `icons/custom/` are based on [Lucide](https://lucide.dev) icons (ISC licence); the Scapia and Paytm Money drawings are from [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) (Apache 2.0).
 - App names and logos belong to their owners. This is a personal theming project and is not affiliated with any of them.
